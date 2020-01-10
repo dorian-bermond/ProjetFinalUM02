@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="992.26636"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="0.000000 0.000000 992.266357 905.250183" height="905.2502"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="2.5158517"
+              d="M 705.776245,702.358276 C 736.090942,730.496216 739.356201,818.175049 711.218262,848.489746"
+              class="id_English_Oatmeal_Stout id_American_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.9399965"
+              d="M 705.776245,702.358276 C 676.947937,764.885559 539.914612,815.433960 477.387329,786.605652"
+              class="id_English_Oatmeal_Stout id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.3424683"
+              d="M 705.776245,702.358276 C 728.787537,632.700989 867.790283,562.732117 937.447571,585.743408"
+              class="id_English_Oatmeal_Stout id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7021315"
+              d="M 705.776245,702.358276 C 734.026733,656.743408 844.824768,630.696899 890.439636,658.947388"
+              class="id_English_Oatmeal_Stout id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5402114"
+              d="M 705.776245,702.358276 C 676.606018,711.227966 619.546021,680.777222 610.676331,651.606995"
+              class="id_English_Oatmeal_Stout id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.7180727"
+              d="M 705.776245,702.358276 C 639.828796,688.784851 561.267822,569.503418 574.841248,503.555969"
+              class="id_English_Oatmeal_Stout id_American_IPA"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2693892"
+              d="M 705.776245,702.358276 C 687.527771,641.191223 751.905762,522.067993 813.072815,503.819550"
+              class="id_English_Oatmeal_Stout id_American_Imperial_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.4816408"
+              d="M 705.776245,702.358276 C 651.191528,650.661377 646.859802,491.238922 698.556702,436.654205"
+              class="id_English_Oatmeal_Stout id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2980478"
+              d="M 705.776245,702.358276 C 701.427368,636.528076 793.649353,531.259583 859.479553,526.910706"
+              class="id_English_Oatmeal_Stout id_Belgian_Witbier"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.399785"
+              d="M 705.776245,702.358276 C 728.409790,751.583008 688.522888,859.370422 639.298157,882.003967"
+              class="id_English_Oatmeal_Stout id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1490238"
+              d="M 705.776245,702.358276 C 687.569519,694.369080 672.243225,655.075256 680.232422,636.868530"
+              class="id_English_Oatmeal_Stout id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.836826"
+              d="M 705.776245,702.358276 C 749.722900,686.059448 840.091003,727.531128 856.389832,771.477783"
+              class="id_English_Oatmeal_Stout id_American_Porter"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.183414"
+              d="M 705.776245,702.358276 C 717.854492,703.632813 734.060120,723.661865 732.785583,735.740112"
+              class="id_English_Oatmeal_Stout id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.0059109"
+              d="M 705.776245,702.358276 C 751.656006,708.513428 811.242798,786.565857 805.087646,832.445618"
+              class="id_English_Oatmeal_Stout id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.3940535"
+              d="M 705.776245,702.358276 C 734.924194,692.490112 793.448425,721.409912 803.316589,750.557861"
+              class="id_English_Oatmeal_Stout id_American_Pale_Wheat_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.001433"
+              d="M 705.776245,702.358276 C 695.982422,702.699585 680.779724,688.520752 680.438416,678.726929"
+              class="id_English_Oatmeal_Stout id_Russian_Imperial_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5602722"
+              d="M 705.776245,702.358276 C 709.019226,742.309509 653.956787,807.100830 614.005554,810.343811"
+              class="id_English_Oatmeal_Stout id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.2022212"
+              d="M 732.785583,735.740112 C 751.022034,762.603516 738.081665,830.253296 711.218262,848.489746"
+              class="id_American_Black_Ale id_American_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.3956654"
+              d="M 732.785583,735.740112 C 691.879028,796.992859 538.640076,827.512207 477.387329,786.605652"
+              class="id_American_Black_Ale id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.6663084"
+              d="M 732.785583,735.740112 C 743.718628,664.808411 866.515869,574.810364 937.447571,585.743408"
+              class="id_American_Black_Ale id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.3526778"
+              d="M 732.785583,735.740112 C 748.957886,688.850769 843.550293,642.775085 890.439636,658.947388"
+              class="id_American_Black_Ale id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.0317035"
+              d="M 732.785583,735.740112 C 691.537109,743.335388 618.271606,692.855469 610.676331,651.606995"
+              class="id_American_Black_Ale id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2636576"
+              d="M 732.785583,735.740112 C 718.159485,756.856079 664.546448,766.590759 643.430481,751.964661"
+              class="id_American_Black_Ale id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5760343"
+              d="M 732.785583,735.740112 C 743.340820,783.690369 687.248413,871.448730 639.298157,882.003967"
+              class="id_American_Black_Ale id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.164786"
+              d="M 732.785583,735.740112 C 683.427307,699.063110 664.405518,570.010132 701.082520,520.651855"
+              class="id_American_Black_Ale id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3267062"
+              d="M 732.785583,735.740112 C 653.332764,793.840210 447.003357,761.810913 388.903290,682.358093"
+              class="id_American_Black_Ale id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0042987"
+              d="M 732.785583,735.740112 C 752.905762,709.071228 823.089417,699.248047 849.758301,719.368225"
+              class="id_American_Black_Ale id_Belgian_IPA" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2464626"
+              d="M 732.785583,735.740112 C 745.133850,702.243286 813.901550,670.520447 847.398376,682.868713"
+              class="id_American_Black_Ale id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3209743"
+              d="M 732.785583,735.740112 C 702.500671,726.476440 670.968750,667.153442 680.232422,636.868530"
+              class="id_American_Black_Ale id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.3655741"
+              d="M 732.785583,735.740112 C 764.653931,718.166809 838.816528,739.609436 856.389832,771.477783"
+              class="id_American_Black_Ale id_American_Porter"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1561885"
+              d="M 732.785583,735.740112 C 685.431885,724.476624 631.296448,636.550964 642.559937,589.197266"
+              class="id_American_Black_Ale id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.7195055"
+              d="M 732.785583,735.740112 C 766.587097,740.620850 809.968384,798.644104 805.087646,832.445618"
+              class="id_American_Black_Ale id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.130396"
+              d="M 732.785583,735.740112 C 707.196350,685.090088 744.787537,570.731201 795.437561,545.141968"
+              class="id_American_Black_Ale id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0974386"
+              d="M 732.785583,735.740112 C 687.631653,712.172607 655.251953,609.090454 678.819458,563.936523"
+              class="id_American_Black_Ale id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4155471"
+              d="M 732.785583,735.740112 C 739.760071,677.498779 837.583801,600.598511 895.825134,607.572998"
+              class="id_American_Black_Ale id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.181981"
+              d="M 732.785583,735.740112 C 664.413147,762.860107 521.174561,700.981506 494.054596,632.609070"
+              class="id_American_Black_Ale id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.8783808"
+              d="M 732.785583,735.740112 C 723.950317,774.416809 652.682251,819.179077 614.005554,810.343811"
+              class="id_American_Black_Ale id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.09314"
+              d="M 860.583984,622.343628 C 857.703613,670.582642 781.024597,738.620483 732.785583,735.740112"
+              class="id_Berliner_Weisse id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.6190221"
+              d="M 859.479553,526.910706 C 875.906616,594.015381 799.890259,719.313049 732.785583,735.740112"
+              class="id_Belgian_Witbier id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1934445"
+              d="M 847.108582,569.333313 C 857.525330,625.479309 788.931580,725.323364 732.785583,735.740112"
+              class="id_American_Lager id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="4.163711"
+              d="M 698.556702,436.654205 C 765.219666,489.625610 785.757019,669.077148 732.785583,735.740112"
+              class="id_American_Pale_Ale_(APA) id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.454594"
+              d="M 574.841248,503.555969 C 652.866943,518.403931 747.633545,657.714417 732.785583,735.740112"
+              class="id_American_IPA id_American_Black_Ale" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.874082"
+              d="M 813.072815,503.819550 C 843.399475,566.261108 795.227112,705.413452 732.785583,735.740112"
+              class="id_American_Imperial_Stout id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3224072"
+              d="M 680.438416,678.726929 C 702.310486,679.660156 733.718811,713.868042 732.785583,735.740112"
+              class="id_Russian_Imperial_Stout id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.656278"
+              d="M 643.430481,751.964661 C 676.293030,757.712097 716.965698,815.627197 711.218262,848.489746"
+              class="id_Rye_Beer id_American_Stout" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7221923"
+              d="M 643.430481,751.964661 C 617.150085,792.101501 517.524170,812.886047 477.387329,786.605652"
+              class="id_Rye_Beer id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4972239"
+              d="M 643.430481,751.964661 C 616.808105,738.443970 597.155640,678.229370 610.676331,651.606995"
+              class="id_Rye_Beer id_American_Brown_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1948774"
+              d="M 643.430481,751.964661 C 668.611877,778.799011 666.132507,856.822571 639.298157,882.003967"
+              class="id_Rye_Beer id_German_Hefeweizen" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0300913"
+              d="M 643.430481,751.964661 C 627.771667,721.585022 649.852783,652.527344 680.232422,636.868530"
+              class="id_Rye_Beer id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3897545"
+              d="M 643.430481,751.964661 C 649.221313,769.525513 631.566406,804.552979 614.005554,810.343811"
+              class="id_Rye_Beer id_American_Blonde_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2464626"
+              d="M 937.447571,585.743408 C 911.888428,677.791077 735.478149,777.523804 643.430481,751.964661"
+              class="id_Fruit_and_Field_Beer id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0401218"
+              d="M 895.825134,607.572998 C 874.224548,686.930298 722.787781,773.565247 643.430481,751.964661"
+              class="id_American_Wild_Ale id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.6347842"
+              d="M 890.439636,658.947388 C 859.641235,726.952698 711.435791,782.763062 643.430481,751.964661"
+              class="id_Belgian_Saison id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1905785"
+              d="M 859.479553,526.910706 C 861.280518,615.131348 731.651123,750.163696 643.430481,751.964661"
+              class="id_Belgian_Witbier id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.854021"
+              d="M 805.087646,832.445618 C 756.660034,848.680847 659.665710,800.392273 643.430481,751.964661"
+              class="id_American_Imperial_IPA id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7393875"
+              d="M 856.389832,771.477783 C 809.895325,810.166992 682.119690,798.459167 643.430481,751.964661"
+              class="id_American_Porter id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.1993551"
+              d="M 698.556702,436.654205 C 750.593506,510.741547 717.517822,699.927856 643.430481,751.964661"
+              class="id_American_Pale_Ale_(APA) id_Rye_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.3598423"
+              d="M 574.841248,503.555969 C 638.240845,539.519897 679.394409,688.565063 643.430481,751.964661"
+              class="id_American_IPA id_Rye_Beer" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2794197"
+              d="M 813.072815,503.819550 C 828.773376,587.377014 726.987976,736.264099 643.430481,751.964661"
+              class="id_American_Imperial_Stout id_Rye_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7709117"
+              d="M 680.438416,678.726929 C 661.403931,740.912903 539.573303,805.640137 477.387329,786.605652"
+              class="id_Russian_Imperial_Stout id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3868887"
+              d="M 680.438416,678.726929 C 713.243591,608.728394 867.449036,552.938232 937.447571,585.743408"
+              class="id_Russian_Imperial_Stout id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.854021"
+              d="M 680.438416,678.726929 C 718.482727,632.770752 844.483459,620.903076 890.439636,658.947388"
+              class="id_Russian_Imperial_Stout id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5187175"
+              d="M 680.438416,678.726929 C 661.062012,687.255310 619.204712,670.983398 610.676331,651.606995"
+              class="id_Russian_Imperial_Stout id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.6636217"
+              d="M 680.438416,678.726929 C 624.284790,664.812195 560.926514,559.709595 574.841248,503.555969"
+              class="id_Russian_Imperial_Stout id_American_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4957907"
+              d="M 680.438416,678.726929 C 671.983765,617.218567 751.564453,512.274170 813.072815,503.819550"
+              class="id_Russian_Imperial_Stout id_American_Imperial_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.420025"
+              d="M 680.438416,678.726929 C 635.647522,626.688721 646.518494,481.445099 698.556702,436.654205"
+              class="id_Russian_Imperial_Stout id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3596632"
+              d="M 680.438416,678.726929 C 685.883423,612.555481 793.308105,521.465698 859.479553,526.910706"
+              class="id_Russian_Imperial_Stout id_Belgian_Witbier"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3338706"
+              d="M 680.438416,678.726929 C 712.865784,727.610352 688.181580,849.576599 639.298157,882.003967"
+              class="id_Russian_Imperial_Stout id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1031704"
+              d="M 680.438416,678.726929 C 622.857666,737.760193 447.936554,739.938843 388.903290,682.358093"
+              class="id_Russian_Imperial_Stout id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0272255"
+              d="M 680.438416,678.726929 C 714.658752,646.163330 814.834778,648.648376 847.398376,682.868713"
+              class="id_Russian_Imperial_Stout id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1404264"
+              d="M 680.438416,678.726929 C 672.025513,670.396423 671.901917,645.281433 680.232422,636.868530"
+              class="id_Russian_Imperial_Stout id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.9013076"
+              d="M 680.438416,678.726929 C 734.178894,662.086792 839.749695,717.737305 856.389832,771.477783"
+              class="id_Russian_Imperial_Stout id_American_Porter"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.2280138"
+              d="M 680.438416,678.726929 C 736.112000,684.540771 810.901489,776.772034 805.087646,832.445618"
+              class="id_Russian_Imperial_Stout id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2450297"
+              d="M 680.438416,678.726929 C 709.284973,621.418823 838.517029,578.726440 895.825134,607.572998"
+              class="id_Russian_Imperial_Stout id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.091707"
+              d="M 680.438416,678.726929 C 633.938049,706.780151 522.107788,679.109375 494.054596,632.609070"
+              class="id_Russian_Imperial_Stout id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.421279"
+              d="M 680.438416,678.726929 C 693.475220,718.336853 653.615479,797.307007 614.005554,810.343811"
+              class="id_Russian_Imperial_Stout id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.6634426"
+              d="M 388.903290,682.358093 C 427.107697,631.853271 560.171509,613.402588 610.676331,651.606995"
+              class="id_English_Sweet_/_Milk_Stout id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0444205"
+              d="M 388.903290,682.358093 C 418.997894,587.580994 606.305420,490.557251 701.082520,520.651855"
+              class="id_English_Sweet_/_Milk_Stout id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0243597"
+              d="M 388.903290,682.358093 C 480.704407,590.761169 755.801453,591.067566 847.398376,682.868713"
+              class="id_English_Sweet_/_Milk_Stout id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0945728"
+              d="M 388.903290,682.358093 C 438.071228,614.994385 612.868713,587.700623 680.232422,636.868530"
+              class="id_English_Sweet_/_Milk_Stout id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5703027"
+              d="M 388.903290,682.358093 C 459.520874,662.934814 594.582275,739.726196 614.005554,810.343811"
+              class="id_English_Sweet_/_Milk_Stout id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4126813"
+              d="M 937.447571,585.743408 C 847.061646,714.775208 517.935059,772.744019 388.903290,682.358093"
+              class="id_Fruit_and_Field_Beer id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.253627"
+              d="M 895.825134,607.572998 C 809.397827,723.914429 505.244690,768.785400 388.903290,682.358093"
+              class="id_American_Wild_Ale id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.0188072"
+              d="M 890.439636,658.947388 C 794.814514,763.936768 493.892700,777.983215 388.903290,682.358093"
+              class="id_Belgian_Saison id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4255776"
+              d="M 859.479553,526.910706 C 796.453796,652.115417 514.108032,745.383850 388.903290,682.358093"
+              class="id_Belgian_Witbier id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.891277"
+              d="M 477.387329,786.605652 C 438.841003,783.453003 385.750580,720.904419 388.903290,682.358093"
+              class="id_American_Amber_/_Red_Ale id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3582304"
+              d="M 639.298157,882.003967 C 549.289978,892.153748 399.053101,772.366272 388.903290,682.358093"
+              class="id_German_Hefeweizen id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.3010926"
+              d="M 805.087646,832.445618 C 691.833252,885.664978 442.122650,795.612488 388.903290,682.358093"
+              class="id_American_Imperial_IPA id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.9442952"
+              d="M 856.389832,771.477783 C 745.068604,847.151184 464.576660,793.679321 388.903290,682.358093"
+              class="id_American_Porter id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.6106036"
+              d="M 698.556702,436.654205 C 685.766846,547.725647 499.974762,695.147949 388.903290,682.358093"
+              class="id_American_Pale_Ale_(APA) id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.914383"
+              d="M 574.841248,503.555969 C 573.414063,576.504028 461.851318,683.785278 388.903290,682.358093"
+              class="id_American_IPA id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.6089916"
+              d="M 813.072815,503.819550 C 763.946594,624.361206 509.444885,731.484314 388.903290,682.358093"
+              class="id_American_Imperial_Stout id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3138099"
+              d="M 678.819458,563.936523 C 715.138123,626.180725 676.249756,774.025146 614.005554,810.343811"
+              class="id_Scotch_Ale_/_Wee_Heavy id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3768582"
+              d="M 678.819458,563.936523 C 682.724976,595.099243 641.839050,647.701477 610.676331,651.606995"
+              class="id_Scotch_Ale_/_Wee_Heavy id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0673473"
+              d="M 678.819458,563.936523 C 693.688477,578.240356 694.536255,621.999512 680.232422,636.868530"
+              class="id_Scotch_Ale_/_Wee_Heavy id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2063408"
+              d="M 937.447571,585.743408 C 881.360535,633.107666 726.183716,620.023560 678.819458,563.936523"
+              class="id_Fruit_and_Field_Beer id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5158517"
+              d="M 890.439636,658.947388 C 829.113403,682.269226 702.141296,625.262756 678.819458,563.936523"
+              class="id_Belgian_Saison id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1604872"
+              d="M 859.479553,526.910706 C 830.752686,570.447876 722.356628,592.663391 678.819458,563.936523"
+              class="id_Belgian_Witbier id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.639083"
+              d="M 477.387329,786.605652 C 473.139954,701.785400 593.999207,568.183899 678.819458,563.936523"
+              class="id_American_Amber_/_Red_Ale id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2607918"
+              d="M 639.298157,882.003967 C 583.588867,810.486267 607.301758,619.645813 678.819458,563.936523"
+              class="id_German_Hefeweizen id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.7780764"
+              d="M 805.087646,832.445618 C 726.132141,803.997437 650.371277,642.892029 678.819458,563.936523"
+              class="id_American_Imperial_IPA id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.601827"
+              d="M 856.389832,771.477783 C 779.367493,765.483643 672.825317,640.958862 678.819458,563.936523"
+              class="id_American_Porter id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.0087767"
+              d="M 698.556702,436.654205 C 720.065735,466.058105 708.223389,542.427490 678.819458,563.936523"
+              class="id_American_Pale_Ale_(APA) id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.183593"
+              d="M 574.841248,503.555969 C 607.713013,494.836426 670.099915,531.064758 678.819458,563.936523"
+              class="id_American_IPA id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2149382"
+              d="M 813.072815,503.819550 C 798.245544,542.693604 717.693481,578.763794 678.819458,563.936523"
+              class="id_American_Imperial_Stout id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="6.0881248"
+              d="M 574.841248,503.555969 C 644.031677,557.080627 667.530212,741.153381 614.005554,810.343811"
+              class="id_American_IPA id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="7.082572"
+              d="M 574.841248,503.555969 C 684.735291,500.830597 853.664490,661.583740 856.389832,771.477783"
+              class="id_American_IPA id_American_Porter" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.9973133"
+              d="M 574.841248,503.555969 C 627.131104,492.024170 722.863647,553.161133 734.395447,605.450989"
+              class="id_American_IPA id_English_Brown_Ale" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 574.841248,503.555969 C 586.203979,465.432526 660.433228,425.291443 698.556702,436.654205"
+              class="id_American_IPA id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="7.288913"
+              d="M 574.841248,503.555969 C 611.960388,579.656677 553.488037,749.486511 477.387329,786.605652"
+              class="id_American_IPA id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.3367364"
+              d="M 574.841248,503.555969 C 576.500488,489.541626 600.010803,471.008942 614.025146,472.668182"
+              class="id_American_IPA id_Vienna_Lager" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.0120006"
+              d="M 574.841248,503.555969 C 663.799988,447.472198 881.363831,496.784637 937.447571,585.743408"
+              class="id_American_IPA id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.474297"
+              d="M 574.841248,503.555969 C 601.706482,521.206116 615.529114,587.979309 597.878967,614.844543"
+              class="id_American_IPA id_English_Bitter" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.4298763"
+              d="M 574.841248,503.555969 C 640.487793,568.866821 640.991394,765.302795 575.680542,830.949341"
+              class="id_American_IPA id_German_Dunkelweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2478955"
+              d="M 574.841248,503.555969 C 584.622437,487.893890 622.787231,479.072540 638.449280,488.853699"
+              class="id_American_IPA id_German_Maibock" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="6.6971164"
+              d="M 574.841248,503.555969 C 669.039246,471.514587 858.398254,564.749390 890.439636,658.947388"
+              class="id_American_IPA id_Belgian_Saison" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="5.807272"
+              d="M 574.841248,503.555969 C 611.618469,525.999207 633.119568,614.829773 610.676331,651.606995"
+              class="id_American_IPA id_American_Brown_Ale" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.021673"
+              d="M 574.841248,503.555969 C 674.047058,525.405090 790.082031,706.987610 768.232910,806.193420"
+              class="id_American_IPA id_Leipzig_Gose" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.9675803"
+              d="M 574.841248,503.555969 C 636.439880,451.299255 807.222839,465.312073 859.479553,526.910706"
+              class="id_American_IPA id_Belgian_Witbier" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="5.158159"
+              d="M 574.841248,503.555969 C 663.422180,566.354187 702.096375,793.423035 639.298157,882.003967"
+              class="id_American_IPA id_German_Hefeweizen" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.841304"
+              d="M 574.841248,503.555969 C 603.508667,481.726898 679.253479,491.984406 701.082520,520.651855"
+              class="id_American_IPA id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.6175892"
+              d="M 574.841248,503.555969 C 566.701965,540.677063 498.811432,584.149780 461.690338,576.010498"
+              class="id_American_IPA id_English_India_Pale_Ale_(IPA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.746552"
+              d="M 574.841248,503.555969 C 672.987122,491.735046 837.937378,621.222351 849.758301,719.368225"
+              class="id_American_IPA id_Belgian_IPA" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.9228015"
+              d="M 574.841248,503.555969 C 575.362915,517.159668 555.739990,538.347778 542.136292,538.869446"
+              class="id_American_IPA id_Belgian_Dubbel" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.6550243"
+              d="M 574.841248,503.555969 C 665.215210,484.907104 828.749512,592.494751 847.398376,682.868713"
+              class="id_American_IPA id_Belgian_Pale_Ale" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.842558"
+              d="M 574.841248,503.555969 C 619.174622,546.083679 621.883118,676.375183 579.355408,720.708557"
+              class="id_American_IPA id_English_Pale_Ale" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="4.008956"
+              d="M 574.841248,503.555969 C 622.582031,509.140259 685.816711,589.127747 680.232422,636.868530"
+              class="id_American_IPA id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.89271"
+              d="M 574.841248,503.555969 C 654.183350,537.892700 721.691528,708.410828 687.354797,787.752930"
+              class="id_American_IPA id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.38259"
+              d="M 574.841248,503.555969 C 574.221008,542.806946 514.414063,600.752991 475.163086,600.132751"
+              class="id_American_IPA id_German_Altbier" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.4485044"
+              d="M 574.841248,503.555969 C 622.243835,562.710266 604.616211,722.545471 545.461914,769.948059"
+              class="id_American_IPA id_German_Doppelbock" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.9043524"
+              d="M 574.841248,503.555969 C 605.513245,507.140472 646.144409,558.525269 642.559937,589.197266"
+              class="id_American_IPA id_German_Pilsner" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.0517642"
+              d="M 574.841248,503.555969 C 611.019165,560.734009 579.518921,700.767944 522.340881,736.945862"
+              class="id_American_IPA id_Bohemian_Pilsener" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="7.852051"
+              d="M 574.841248,503.555969 C 686.668457,523.284668 824.816345,720.618408 805.087646,832.445618"
+              class="id_American_IPA id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.4630127"
+              d="M 574.841248,503.555969 C 627.277710,467.753906 759.635498,492.705505 795.437561,545.141968"
+              class="id_American_IPA id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.712162"
+              d="M 574.841248,503.555969 C 608.792236,548.384155 592.476440,666.552795 547.648254,700.503784"
+              class="id_American_IPA id_English_Porter" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.5889306"
+              d="M 574.841248,503.555969 C 610.015747,567.572754 566.752258,716.359680 502.735474,751.534180"
+              class="id_American_IPA id_Winter_Warmer" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="4.04048"
+              d="M 574.841248,503.555969 C 659.841431,460.162598 852.431763,522.572815 895.825134,607.572998"
+              class="id_American_IPA id_American_Wild_Ale" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.5031345"
+              d="M 574.841248,503.555969 C 584.494507,545.523926 536.022522,622.955811 494.054596,632.609070"
+              class="id_American_IPA id_Belgian_Tripel" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.312556"
+              d="M 574.841248,503.555969 C 655.747314,470.164917 827.192932,541.437561 860.583984,622.343628"
+              class="id_American_IPA id_Berliner_Weisse" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3524988"
+              d="M 574.841248,503.555969 C 591.477234,551.900757 543.914063,649.372192 495.569244,666.008179"
+              class="id_American_IPA id_German_Schwarzbier" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.5588393"
+              d="M 574.841248,503.555969 C 695.793945,461.698151 940.009644,580.340454 981.867493,701.293152"
+              class="id_American_IPA id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1934445"
+              d="M 574.841248,503.555969 C 564.171692,494.745911 561.382385,465.526550 570.192444,454.856995"
+              class="id_American_IPA id_British_Barleywine" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.6263657"
+              d="M 847.108582,569.333313 C 779.499634,610.631348 616.139282,571.164917 574.841248,503.555969"
+              class="id_American_Lager id_American_IPA" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="5.4418774"
+              d="M 698.556702,436.654205 C 756.384399,528.302368 705.653687,752.516113 614.005554,810.343811"
+              class="id_American_Pale_Ale_(APA) id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="6.4148307"
+              d="M 698.556702,436.654205 C 797.088074,472.052307 891.787903,672.946411 856.389832,771.477783"
+              class="id_American_Pale_Ale_(APA) id_American_Porter"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.8998747"
+              d="M 698.556702,436.654205 C 739.483765,463.245819 760.987061,564.523926 734.395447,605.450989"
+              class="id_American_Pale_Ale_(APA) id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="6.6569943"
+              d="M 698.556702,436.654205 C 724.313110,550.878357 591.611511,760.849243 477.387329,786.605652"
+              class="id_American_Pale_Ale_(APA) id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2235358"
+              d="M 698.556702,436.654205 C 688.853210,460.763306 638.134277,482.371704 614.025146,472.668182"
+              class="id_American_Pale_Ale_(APA) id_Vienna_Lager"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="4.5978866"
+              d="M 698.556702,436.654205 C 776.152710,418.693878 919.487183,508.147369 937.447571,585.743408"
+              class="id_American_Pale_Ale_(APA) id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3209743"
+              d="M 698.556702,436.654205 C 752.840454,540.088501 679.114807,776.665588 575.680542,830.949341"
+              class="id_American_Pale_Ale_(APA) id_German_Dunkelweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.166219"
+              d="M 698.556702,436.654205 C 696.975098,459.115601 660.910645,490.435272 638.449280,488.853699"
+              class="id_American_Pale_Ale_(APA) id_German_Maibock"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="6.009314"
+              d="M 698.556702,436.654205 C 781.391907,442.736267 896.521667,576.112183 890.439636,658.947388"
+              class="id_American_Pale_Ale_(APA) id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="5.2885547"
+              d="M 698.556702,436.654205 C 723.971191,497.220856 671.242920,626.192505 610.676331,651.606995"
+              class="id_American_Pale_Ale_(APA) id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7938385"
+              d="M 698.556702,436.654205 C 786.399780,496.626801 828.205505,718.350342 768.232910,806.193420"
+              class="id_American_Pale_Ale_(APA) id_Leipzig_Gose"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.7268496"
+              d="M 698.556702,436.654205 C 775.774963,537.575867 740.219788,804.785706 639.298157,882.003967"
+              class="id_American_Pale_Ale_(APA) id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.5762136"
+              d="M 698.556702,436.654205 C 715.861450,452.948578 717.376831,503.347168 701.082520,520.651855"
+              class="id_American_Pale_Ale_(APA) id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.6175892"
+              d="M 698.556702,436.654205 C 679.054688,511.898743 536.934875,595.512512 461.690338,576.010498"
+              class="id_American_Pale_Ale_(APA) id_English_India_Pale_Ale_(IPA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.583199"
+              d="M 698.556702,436.654205 C 785.339783,462.956696 876.060791,632.585144 849.758301,719.368225"
+              class="id_American_Pale_Ale_(APA) id_Belgian_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7336557"
+              d="M 698.556702,436.654205 C 687.715698,488.381348 593.863403,549.710449 542.136292,538.869446"
+              class="id_American_Pale_Ale_(APA) id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.4271896"
+              d="M 698.556702,436.654205 C 777.567932,456.128754 866.872986,603.857483 847.398376,682.868713"
+              class="id_American_Pale_Ale_(APA) id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.709296"
+              d="M 698.556702,436.654205 C 731.527283,517.305359 660.006531,687.737976 579.355408,720.708557"
+              class="id_American_Pale_Ale_(APA) id_English_Pale_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.7395666"
+              d="M 698.556702,436.654205 C 734.934692,480.361938 723.940125,600.490540 680.232422,636.868530"
+              class="id_American_Pale_Ale_(APA) id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7264912"
+              d="M 698.556702,436.654205 C 766.536072,509.114349 759.814880,719.773560 687.354797,787.752930"
+              class="id_American_Pale_Ale_(APA) id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2722552"
+              d="M 698.556702,436.654205 C 686.573730,514.028625 552.537476,612.115723 475.163086,600.132751"
+              class="id_American_Pale_Ale_(APA) id_German_Altbier"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.3367364"
+              d="M 698.556702,436.654205 C 734.596497,533.931946 642.739624,733.908264 545.461914,769.948059"
+              class="id_American_Pale_Ale_(APA) id_German_Doppelbock"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.6822498"
+              d="M 698.556702,436.654205 C 717.865967,478.362152 684.267883,569.888000 642.559937,589.197266"
+              class="id_American_Pale_Ale_(APA) id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.855454"
+              d="M 698.556702,436.654205 C 723.371887,531.955688 617.642395,712.130676 522.340881,736.945862"
+              class="id_American_Pale_Ale_(APA) id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="6.976536"
+              d="M 698.556702,436.654205 C 799.021179,494.506317 862.939697,731.981140 805.087646,832.445618"
+              class="id_American_Pale_Ale_(APA) id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.312556"
+              d="M 698.556702,436.654205 C 739.630432,438.975586 797.758972,504.068237 795.437561,545.141968"
+              class="id_American_Pale_Ale_(APA) id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.4055169"
+              d="M 698.556702,436.654205 C 808.146667,432.919830 978.133118,591.703186 981.867493,701.293152"
+              class="id_American_Pale_Ale_(APA) id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.6779509"
+              d="M 698.556702,436.654205 C 772.194153,431.384277 890.555237,533.935547 895.825134,607.572998"
+              class="id_American_Pale_Ale_(APA) id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.1964893"
+              d="M 698.556702,436.654205 C 696.847229,516.745605 574.145996,634.318481 494.054596,632.609070"
+              class="id_American_Pale_Ale_(APA) id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.639083"
+              d="M 698.556702,436.654205 C 721.144897,519.605835 630.599854,677.915588 547.648254,700.503784"
+              class="id_American_Pale_Ale_(APA) id_English_Porter"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.4972239"
+              d="M 698.556702,436.654205 C 722.368469,538.794434 604.875732,727.722412 502.735474,751.534180"
+              class="id_American_Pale_Ale_(APA) id_Winter_Warmer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.275121"
+              d="M 698.556702,436.654205 C 703.830017,523.122498 582.037537,660.734863 495.569244,666.008179"
+              class="id_American_Pale_Ale_(APA) id_German_Schwarzbier"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1031704"
+              d="M 698.556702,436.654205 C 676.524414,465.967621 599.505859,476.889282 570.192444,454.856995"
+              class="id_American_Pale_Ale_(APA) id_British_Barleywine"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.0503314"
+              d="M 860.583984,622.343628 C 791.040649,617.611206 693.824280,506.197540 698.556702,436.654205"
+              class="id_Berliner_Weisse id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.549167"
+              d="M 859.479553,526.910706 C 809.243652,541.043945 712.689941,486.890076 698.556702,436.654205"
+              class="id_Belgian_Witbier id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4241447"
+              d="M 597.878967,614.844543 C 582.376465,559.070923 642.783081,452.156708 698.556702,436.654205"
+              class="id_English_Bitter id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.4157264"
+              d="M 847.108582,569.333313 C 790.862366,572.507874 701.731262,492.900421 698.556702,436.654205"
+              class="id_American_Lager id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7250583"
+              d="M 680.232422,636.868530 C 669.268921,653.727417 627.535217,662.570496 610.676331,651.606995"
+              class="id_German_Märzen_/_Oktoberfest id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3252733"
+              d="M 680.232422,636.868530 C 661.159119,609.455139 673.669128,539.725159 701.082520,520.651855"
+              class="id_German_Märzen_/_Oktoberfest id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.055884"
+              d="M 680.232422,636.868530 C 722.865601,612.635376 823.165222,640.235535 847.398376,682.868713"
+              class="id_German_Märzen_/_Oktoberfest id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1332617"
+              d="M 680.232422,636.868530 C 679.894226,690.438538 599.031921,770.286255 545.461914,769.948059"
+              class="id_German_Märzen_/_Oktoberfest id_German_Doppelbock"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.055884"
+              d="M 680.232422,636.868530 C 668.669556,688.462280 573.934631,748.508728 522.340881,736.945862"
+              class="id_German_Märzen_/_Oktoberfest id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0888412"
+              d="M 795.437561,545.141968 C 790.741882,586.528320 721.618774,641.564209 680.232422,636.868530"
+              class="id_English_Extra_Special_/_Strong_Bitter_(ESB) id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0300913"
+              d="M 638.449280,488.853699 C 676.408875,510.100037 701.478760,598.908936 680.232422,636.868530"
+              class="id_German_Maibock id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7881067"
+              d="M 642.559937,589.197266 C 659.628662,591.197021 682.232178,619.799805 680.232422,636.868530"
+              class="id_German_Pilsner id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7107291"
+              d="M 937.447571,585.743408 C 896.229553,647.411499 741.900513,678.086548 680.232422,636.868530"
+              class="id_Fruit_and_Field_Beer id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0788107"
+              d="M 895.825134,607.572998 C 858.565735,656.550659 729.210083,674.127930 680.232422,636.868530"
+              class="id_American_Wild_Ale id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0859754"
+              d="M 494.054596,632.609070 C 532.142029,596.225342 643.848694,598.781067 680.232422,636.868530"
+              class="id_Belgian_Tripel id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.8984418"
+              d="M 890.439636,658.947388 C 843.982422,696.573059 717.858093,683.325745 680.232422,636.868530"
+              class="id_Belgian_Saison id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5688698"
+              d="M 859.479553,526.910706 C 845.621704,584.751709 738.073425,650.726379 680.232422,636.868530"
+              class="id_Belgian_Witbier id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.015762"
+              d="M 610.676331,651.606995 C 626.188965,617.631958 700.420410,589.938354 734.395447,605.450989"
+              class="id_American_Brown_Ale id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.6347842"
+              d="M 610.676331,651.606995 C 602.566528,607.334717 656.810242,528.761658 701.082520,520.651855"
+              class="id_American_Brown_Ale id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1332617"
+              d="M 610.676331,651.606995 C 574.420837,642.767517 533.296814,575.124939 542.136292,538.869446"
+              class="id_American_Brown_Ale id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.508687"
+              d="M 610.676331,651.606995 C 664.273071,610.514893 806.306274,629.271973 847.398376,682.868713"
+              class="id_American_Brown_Ale id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0988717"
+              d="M 610.676331,651.606995 C 653.241211,663.500488 699.248291,745.188049 687.354797,787.752930"
+              class="id_American_Brown_Ale id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0816765"
+              d="M 610.676331,651.606995 C 610.076965,686.341858 557.075745,737.545227 522.340881,736.945862"
+              class="id_American_Brown_Ale id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4298763"
+              d="M 795.437561,545.141968 C 779.778320,603.387268 668.921631,667.266235 610.676331,651.606995"
+              class="id_English_Extra_Special_/_Strong_Bitter_(ESB) id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.437041"
+              d="M 642.559937,589.197266 C 648.665161,608.055908 629.534973,645.501770 610.676331,651.606995"
+              class="id_German_Pilsner id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.2480745"
+              d="M 937.447571,585.743408 C 885.266052,664.270386 689.203308,703.788513 610.676331,651.606995"
+              class="id_Fruit_and_Field_Beer id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1877127"
+              d="M 768.232910,806.193420 C 705.804321,806.787415 611.270325,714.035583 610.676331,651.606995"
+              class="id_Leipzig_Gose id_American_Brown_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0472865"
+              d="M 849.758301,719.368225 C 788.389648,753.632385 644.940491,712.975647 610.676331,651.606995"
+              class="id_Belgian_IPA id_American_Brown_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.713595"
+              d="M 895.825134,607.572998 C 847.602173,673.409607 676.512939,699.829956 610.676331,651.606995"
+              class="id_American_Wild_Ale id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.308078"
+              d="M 860.583984,622.343628 C 816.455139,678.177795 666.510498,695.735840 610.676331,651.606995"
+              class="id_Berliner_Weisse id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4184132"
+              d="M 494.054596,632.609070 C 521.178528,613.084290 591.151550,624.483093 610.676331,651.606995"
+              class="id_Belgian_Tripel id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.8699625"
+              d="M 890.439636,658.947388 C 833.018921,713.431946 665.160889,709.027710 610.676331,651.606995"
+              class="id_Belgian_Saison id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.1406054"
+              d="M 859.479553,526.910706 C 834.658203,601.610596 685.376221,676.428345 610.676331,651.606995"
+              class="id_Belgian_Witbier id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0974386"
+              d="M 597.878967,614.844543 C 615.347046,639.722046 604.232910,703.240479 579.355408,720.708557"
+              class="id_English_Bitter id_English_Pale_Ale" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0057318"
+              d="M 494.054596,632.609070 C 605.354004,548.783325 898.041748,589.993774 981.867493,701.293152"
+              class="id_Belgian_Tripel id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.219237"
+              d="M 494.054596,632.609070 C 484.923004,604.244812 513.772034,548.001038 542.136292,538.869446"
+              class="id_Belgian_Tripel id_Belgian_Dubbel" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.474297"
+              d="M 494.054596,632.609070 C 574.775269,571.992249 786.781555,602.148010 847.398376,682.868713"
+              class="id_Belgian_Tripel id_Belgian_Pale_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0143292"
+              d="M 494.054596,632.609070 C 513.068787,568.812073 637.285522,501.637695 701.082520,520.651855"
+              class="id_Belgian_Tripel id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4313095"
+              d="M 937.447571,585.743408 C 858.142090,683.795105 592.106323,711.914551 494.054596,632.609070"
+              class="id_Fruit_and_Field_Beer id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1604872"
+              d="M 895.825134,607.572998 C 820.478210,692.934326 579.415894,707.955994 494.054596,632.609070"
+              class="id_American_Wild_Ale id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1217983"
+              d="M 642.559937,589.197266 C 640.555359,563.783630 675.668884,522.656433 701.082520,520.651855"
+              class="id_German_Pilsner id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.038689"
+              d="M 642.559937,589.197266 C 659.290466,644.767029 601.031677,753.217529 545.461914,769.948059"
+              class="id_German_Pilsner id_German_Doppelbock"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.65789"
+              d="M 803.316589,750.557861 C 804.483276,788.563904 749.224304,847.323059 711.218262,848.489746"
+              class="id_American_Pale_Wheat_Ale id_American_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.2867634"
+              d="M 803.316589,750.557861 C 777.411621,800.377258 663.824951,836.248779 614.005554,810.343811"
+              class="id_American_Pale_Wheat_Ale id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.788286"
+              d="M 803.316589,750.557861 C 818.115173,744.127197 849.959167,756.679199 856.389832,771.477783"
+              class="id_American_Pale_Wheat_Ale id_American_Porter"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0644815"
+              d="M 803.316589,750.557861 C 760.510986,735.320740 719.158325,648.256592 734.395447,605.450989"
+              class="id_American_Pale_Wheat_Ale id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.723984"
+              d="M 803.316589,750.557861 C 719.583862,708.729065 656.727905,520.386902 698.556702,436.654205"
+              class="id_American_Pale_Wheat_Ale id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.9616694"
+              d="M 803.316589,750.557861 C 745.340271,822.953247 549.782715,844.581970 477.387329,786.605652"
+              class="id_American_Pale_Wheat_Ale id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.0302706"
+              d="M 803.316589,750.557861 C 797.179871,690.768799 877.658508,591.880127 937.447571,585.743408"
+              class="id_American_Pale_Wheat_Ale id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.5031345"
+              d="M 803.316589,750.557861 C 802.419128,714.811157 854.692932,659.844849 890.439636,658.947388"
+              class="id_American_Pale_Wheat_Ale id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.3383486"
+              d="M 803.316589,750.557861 C 744.998352,769.295776 629.414246,709.925232 610.676331,651.606995"
+              class="id_American_Pale_Wheat_Ale id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2478955"
+              d="M 803.316589,750.557861 C 771.620728,782.816467 675.689087,783.660522 643.430481,751.964661"
+              class="id_American_Pale_Wheat_Ale id_Rye_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7594483"
+              d="M 803.316589,750.557861 C 796.802124,809.650818 698.391113,888.518433 639.298157,882.003967"
+              class="id_American_Pale_Wheat_Ale id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3682609"
+              d="M 803.316589,750.557861 C 736.888550,725.023499 675.548157,587.079895 701.082520,520.651855"
+              class="id_American_Pale_Wheat_Ale id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4599679"
+              d="M 803.316589,750.557861 C 706.794006,819.800537 458.145996,778.880737 388.903290,682.358093"
+              class="id_American_Pale_Wheat_Ale id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.253627"
+              d="M 803.316589,750.557861 C 798.595093,728.203674 825.044189,687.590210 847.398376,682.868713"
+              class="id_American_Pale_Wheat_Ale id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5688698"
+              d="M 803.316589,750.557861 C 755.961914,752.436829 682.111389,684.223206 680.232422,636.868530"
+              class="id_American_Pale_Wheat_Ale id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.690668"
+              d="M 803.316589,750.557861 C 786.246826,761.700500 743.928223,752.809875 732.785583,735.740112"
+              class="id_American_Pale_Wheat_Ale id_American_Black_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.362529"
+              d="M 803.316589,750.557861 C 738.893188,750.437073 642.439148,653.620667 642.559937,589.197266"
+              class="id_American_Pale_Wheat_Ale id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.983163"
+              d="M 803.316589,750.557861 C 820.048340,766.581238 821.111023,815.713867 805.087646,832.445618"
+              class="id_American_Pale_Wheat_Ale id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2450297"
+              d="M 803.316589,750.557861 C 760.657593,711.050476 755.930176,587.800964 795.437561,545.141968"
+              class="id_American_Pale_Wheat_Ale id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.437041"
+              d="M 803.316589,750.557861 C 793.221313,703.459167 848.726440,617.668274 895.825134,607.572998"
+              class="id_American_Pale_Wheat_Ale id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1518898"
+              d="M 803.316589,750.557861 C 717.874390,788.820496 532.317200,718.051270 494.054596,632.609070"
+              class="id_American_Pale_Wheat_Ale id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1203654"
+              d="M 803.316589,750.557861 C 789.127258,713.461548 823.487671,636.532959 860.583984,622.343628"
+              class="id_American_Pale_Wheat_Ale id_Berliner_Weisse"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1404264"
+              d="M 803.316589,750.557861 C 741.092896,738.132996 666.394592,626.160217 678.819458,563.936523"
+              class="id_American_Pale_Wheat_Ale id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7006986"
+              d="M 859.479553,526.910706 C 892.976379,582.872742 859.278625,717.061035 803.316589,750.557861"
+              class="id_Belgian_Witbier id_American_Pale_Wheat_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3209743"
+              d="M 847.108582,569.333313 C 874.595093,614.336670 848.319946,723.071350 803.316589,750.557861"
+              class="id_American_Lager id_American_Pale_Wheat_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.1409636"
+              d="M 574.841248,503.555969 C 669.936707,507.261292 807.021912,655.462402 803.316589,750.557861"
+              class="id_American_IPA id_American_Pale_Wheat_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.947161"
+              d="M 813.072815,503.819550 C 860.469238,555.118469 854.615479,703.161438 803.316589,750.557861"
+              class="id_American_Imperial_Stout id_American_Pale_Wheat_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3023465"
+              d="M 680.438416,678.726929 C 719.380249,668.517517 793.107178,711.616028 803.316589,750.557861"
+              class="id_Russian_Imperial_Stout id_American_Pale_Wheat_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.7037435"
+              d="M 813.072815,503.819550 C 802.492981,627.513855 601.081665,797.185486 477.387329,786.605652"
+              class="id_American_Imperial_Stout id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.9715207"
+              d="M 813.072815,503.819550 C 854.332520,495.329407 928.957397,544.483704 937.447571,585.743408"
+              class="id_American_Imperial_Stout id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3639622"
+              d="M 813.072815,503.819550 C 832.982666,510.115143 853.404175,549.423462 847.108582,569.333313"
+              class="id_American_Imperial_Stout id_American_Lager"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.91295"
+              d="M 813.072815,503.819550 C 859.571777,519.371704 905.991821,612.448425 890.439636,658.947388"
+              class="id_American_Imperial_Stout id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.3197205"
+              d="M 813.072815,503.819550 C 802.151001,573.856323 680.713135,662.528809 610.676331,651.606995"
+              class="id_American_Imperial_Stout id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.1409636"
+              d="M 813.072815,503.819550 C 765.373779,551.413147 622.434814,551.255005 574.841248,503.555969"
+              class="id_American_Imperial_Stout id_American_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2865844"
+              d="M 813.072815,503.819550 C 864.579651,573.262268 837.675659,754.686584 768.232910,806.193420"
+              class="id_American_Imperial_Stout id_Leipzig_Gose"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="4.6752644"
+              d="M 813.072815,503.819550 C 776.736572,513.289673 708.026855,472.990509 698.556702,436.654205"
+              class="id_American_Imperial_Stout id_American_Pale_Ale_(APA)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.908472"
+              d="M 813.072815,503.819550 C 826.972412,499.156433 854.816406,513.011108 859.479553,526.910706"
+              class="id_American_Imperial_Stout id_Belgian_Witbier"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.783808"
+              d="M 813.072815,503.819550 C 853.954773,614.211365 749.690002,841.122009 639.298157,882.003967"
+              class="id_American_Imperial_Stout id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3725595"
+              d="M 813.072815,503.819550 C 794.041199,529.584045 726.847046,539.683472 701.082520,520.651855"
+              class="id_American_Imperial_Stout id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.113201"
+              d="M 813.072815,503.819550 C 863.519653,539.592163 885.530945,668.921387 849.758301,719.368225"
+              class="id_American_Imperial_Stout id_Belgian_IPA"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0659144"
+              d="M 813.072815,503.819550 C 765.895508,565.016846 603.333618,586.046753 542.136292,538.869446"
+              class="id_American_Imperial_Stout id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5402114"
+              d="M 813.072815,503.819550 C 855.747742,532.764282 876.343079,640.193787 847.398376,682.868713"
+              class="id_American_Imperial_Stout id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4656994"
+              d="M 813.072815,503.819550 C 813.114563,556.997375 733.410278,636.826782 680.232422,636.868530"
+              class="id_American_Imperial_Stout id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.7610605"
+              d="M 813.072815,503.819550 C 875.267822,548.687805 901.258057,709.282776 856.389832,771.477783"
+              class="id_American_Imperial_Stout id_American_Porter"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.001433"
+              d="M 813.072815,503.819550 C 844.715881,585.749817 769.285095,756.109863 687.354797,787.752930"
+              class="id_American_Imperial_Stout id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4141142"
+              d="M 813.072815,503.819550 C 796.045776,554.997681 693.738098,606.224304 642.559937,589.197266"
+              class="id_American_Imperial_Stout id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="4.4904175"
+              d="M 813.072815,503.819550 C 877.200989,571.141846 872.409912,768.317444 805.087646,832.445618"
+              class="id_American_Imperial_Stout id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1733835"
+              d="M 813.072815,503.819550 C 817.810242,515.611084 807.229065,540.404541 795.437561,545.141968"
+              class="id_American_Imperial_Stout id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.038689"
+              d="M 813.072815,503.819550 C 886.326416,509.555328 987.603271,628.039551 981.867493,701.293152"
+              class="id_American_Imperial_Stout id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.911338"
+              d="M 813.072815,503.819550 C 850.373962,508.019775 900.025330,570.271851 895.825134,607.572998"
+              class="id_American_Imperial_Stout id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4513702"
+              d="M 813.072815,503.819550 C 775.027100,593.381104 583.616089,670.654846 494.054596,632.609070"
+              class="id_American_Imperial_Stout id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.1735625"
+              d="M 813.072815,503.819550 C 834.564209,604.937866 715.123901,788.852417 614.005554,810.343811"
+              class="id_American_Imperial_Stout id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.457102"
+              d="M 813.072815,503.819550 C 846.279907,518.022095 874.786560,589.136536 860.583984,622.343628"
+              class="id_American_Imperial_Stout id_Berliner_Weisse"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="4.348558"
+              d="M 856.389832,771.477783 C 815.686157,827.727844 670.255615,851.047485 614.005554,810.343811"
+              class="id_American_Porter id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.437041"
+              d="M 856.389832,771.477783 C 798.785583,762.671265 725.588928,663.055237 734.395447,605.450989"
+              class="id_American_Porter id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.158159"
+              d="M 856.389832,771.477783 C 783.614929,850.303833 556.213440,859.380615 477.387329,786.605652"
+              class="id_American_Porter id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.7252374"
+              d="M 856.389832,771.477783 C 835.454529,718.119385 884.089172,606.678711 937.447571,585.743408"
+              class="id_American_Porter id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0444205"
+              d="M 856.389832,771.477783 C 812.142273,839.513916 643.716675,875.196899 575.680542,830.949341"
+              class="id_American_Porter id_German_Dunkelweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="4.6509047"
+              d="M 856.389832,771.477783 C 840.693665,742.161743 861.123596,674.643555 890.439636,658.947388"
+              class="id_American_Porter id_Belgian_Saison" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.241089"
+              d="M 856.389832,771.477783 C 783.272949,796.646301 635.844849,724.723877 610.676331,651.606995"
+              class="id_American_Porter id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4083827"
+              d="M 856.389832,771.477783 C 845.701538,796.052307 792.807434,816.881714 768.232910,806.193420"
+              class="id_American_Porter id_Leipzig_Gose" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.696579"
+              d="M 856.389832,771.477783 C 835.076721,837.001343 704.821716,903.317078 639.298157,882.003967"
+              class="id_American_Porter id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.9715207"
+              d="M 856.389832,771.477783 C 775.163208,752.374084 681.978821,601.878479 701.082520,520.651855"
+              class="id_American_Porter id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.053018"
+              d="M 856.389832,771.477783 C 738.356506,811.324219 501.536804,694.043823 461.690338,576.010498"
+              class="id_American_Porter id_English_India_Pale_Ale_(IPA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2622247"
+              d="M 856.389832,771.477783 C 844.641602,762.382141 840.662659,731.116455 849.758301,719.368225"
+              class="id_American_Porter id_Belgian_IPA" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3868887"
+              d="M 856.389832,771.477783 C 747.017456,787.806824 558.465332,648.241821 542.136292,538.869446"
+              class="id_American_Porter id_Belgian_Dubbel" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.8697834"
+              d="M 856.389832,771.477783 C 836.869751,755.554260 831.474854,702.388794 847.398376,682.868713"
+              class="id_American_Porter id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1174996"
+              d="M 856.389832,771.477783 C 790.829102,816.730774 624.608398,786.269287 579.355408,720.708557"
+              class="id_American_Porter id_English_Pale_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.1792943"
+              d="M 856.389832,771.477783 C 794.236450,779.787415 688.542053,699.021912 680.232422,636.868530"
+              class="id_American_Porter id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2794197"
+              d="M 856.389832,771.477783 C 825.837830,808.539795 724.416809,818.304932 687.354797,787.752930"
+              class="id_American_Porter id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0845423"
+              d="M 856.389832,771.477783 C 793.898254,833.357422 607.341553,832.439636 545.461914,769.948059"
+              class="id_American_Porter id_German_Doppelbock"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.8783808"
+              d="M 856.389832,771.477783 C 777.167725,777.787659 648.869812,668.419373 642.559937,589.197266"
+              class="id_American_Porter id_German_Pilsner" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3195415"
+              d="M 856.389832,771.477783 C 782.673645,831.381226 582.244324,810.662048 522.340881,736.945862"
+              class="id_American_Porter id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.3458714"
+              d="M 856.389832,771.477783 C 858.322937,793.931763 827.541626,830.512512 805.087646,832.445618"
+              class="id_American_Porter id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.7752104"
+              d="M 856.389832,771.477783 C 798.932251,738.401062 762.360840,602.599548 795.437561,545.141968"
+              class="id_American_Porter id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1375604"
+              d="M 856.389832,771.477783 C 867.448425,732.345337 942.735046,690.234558 981.867493,701.293152"
+              class="id_American_Porter id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.057496"
+              d="M 856.389832,771.477783 C 831.495972,730.809753 855.157104,632.466858 895.825134,607.572998"
+              class="id_American_Porter id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.768046"
+              d="M 856.389832,771.477783 C 756.149048,816.171082 538.747925,732.849854 494.054596,632.609070"
+              class="id_American_Porter id_Belgian_Tripel" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.163353"
+              d="M 856.389832,771.477783 C 781.670227,838.219971 569.477661,826.253784 502.735474,751.534180"
+              class="id_American_Porter id_Winter_Warmer" stroke-opacity="0.2"
+              stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.583199"
+              d="M 860.583984,622.343628 C 889.572021,653.009277 887.055481,742.489746 856.389832,771.477783"
+              class="id_Berliner_Weisse id_American_Porter" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.5575855"
+              d="M 859.479553,526.910706 C 907.775024,576.442017 905.921143,723.182312 856.389832,771.477783"
+              class="id_Belgian_Witbier id_American_Porter" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.785241"
+              d="M 847.108582,569.333313 C 889.393738,607.905945 894.962463,729.192627 856.389832,771.477783"
+              class="id_American_Lager id_American_Porter" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.8482895"
+              d="M 847.108582,569.333313 C 816.618774,686.732056 594.786072,817.095459 477.387329,786.605652"
+              class="id_American_Lager id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4470716"
+              d="M 847.108582,569.333313 C 868.458435,554.547546 922.661804,564.393555 937.447571,585.743408"
+              class="id_American_Lager id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.766613"
+              d="M 847.108582,569.333313 C 873.697571,578.589905 899.696228,632.358398 890.439636,658.947388"
+              class="id_American_Lager id_Belgian_Saison" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.437041"
+              d="M 847.108582,569.333313 C 816.276855,633.074463 674.417480,682.438721 610.676331,651.606995"
+              class="id_American_Lager id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3066452"
+              d="M 847.108582,569.333313 C 841.098267,558.374634 848.520874,532.921021 859.479553,526.910706"
+              class="id_American_Lager id_Belgian_Witbier" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.38259"
+              d="M 847.108582,569.333313 C 868.080627,673.429504 743.394348,861.031921 639.298157,882.003967"
+              class="id_American_Lager id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3209743"
+              d="M 847.108582,569.333313 C 827.240356,616.215576 727.114685,656.736755 680.232422,636.868530"
+              class="id_American_Lager id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2149382"
+              d="M 847.108582,569.333313 C 810.171631,614.215820 687.442444,626.134216 642.559937,589.197266"
+              class="id_American_Lager id_German_Pilsner" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0988717"
+              d="M 847.108582,569.333313 C 864.499817,567.237976 893.729797,590.181763 895.825134,607.572998"
+              class="id_American_Lager id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0945728"
+              d="M 859.479553,526.910706 C 834.058838,636.345459 631.775635,762.366577 522.340881,736.945862"
+              class="id_Belgian_Witbier id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.075945"
+              d="M 859.479553,526.910706 C 850.170776,567.635620 775.120361,614.759766 734.395447,605.450989"
+              class="id_Belgian_Witbier id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.1434712"
+              d="M 859.479553,526.910706 C 886.839722,523.083618 933.620483,558.383240 937.447571,585.743408"
+              class="id_Belgian_Witbier id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.7710907"
+              d="M 859.479553,526.910706 C 892.078918,547.126038 910.654968,626.348022 890.439636,658.947388"
+              class="id_Belgian_Witbier id_Belgian_Saison" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0974386"
+              d="M 859.479553,526.910706 C 897.086792,601.016602 842.338806,768.586182 768.232910,806.193420"
+              class="id_Belgian_Witbier id_Leipzig_Gose" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3596632"
+              d="M 859.479553,526.910706 C 826.548401,557.338318 731.510132,553.583008 701.082520,520.651855"
+              class="id_Belgian_Witbier id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1690848"
+              d="M 859.479553,526.910706 C 896.026794,567.346497 890.194092,682.820984 849.758301,719.368225"
+              class="id_Belgian_Witbier id_Belgian_IPA" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3410354"
+              d="M 859.479553,526.910706 C 798.402649,592.771057 607.996643,599.946350 542.136292,538.869446"
+              class="id_Belgian_Witbier id_Belgian_Dubbel" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7866738"
+              d="M 859.479553,526.910706 C 888.254883,560.518555 881.006226,654.093384 847.398376,682.868713"
+              class="id_Belgian_Witbier id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.107469"
+              d="M 859.479553,526.910706 C 877.223083,613.504089 773.948181,770.009399 687.354797,787.752930"
+              class="id_Belgian_Witbier id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4800286"
+              d="M 859.479553,526.910706 C 828.552979,582.751953 698.401184,620.123840 642.559937,589.197266"
+              class="id_Belgian_Witbier id_German_Pilsner" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2178042"
+              d="M 859.479553,526.910706 C 850.317383,543.365356 811.892212,554.304138 795.437561,545.141968"
+              class="id_Belgian_Witbier id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.146158"
+              d="M 859.479553,526.910706 C 918.833618,537.309570 992.266357,641.939087 981.867493,701.293152"
+              class="id_Belgian_Witbier id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5402114"
+              d="M 859.479553,526.910706 C 882.881104,535.774048 904.688477,584.171448 895.825134,607.572998"
+              class="id_Belgian_Witbier id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7350886"
+              d="M 859.479553,526.910706 C 807.534180,621.135376 588.279236,684.554443 494.054596,632.609070"
+              class="id_Belgian_Witbier id_Belgian_Tripel" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2335663"
+              d="M 859.479553,526.910706 C 878.787048,545.776428 879.449707,603.036133 860.583984,622.343628"
+              class="id_Belgian_Witbier id_Berliner_Weisse" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1891456"
+              d="M 890.439636,658.947388 C 848.531494,679.456970 754.905029,647.359131 734.395447,605.450989"
+              class="id_Belgian_Saison id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7035644"
+              d="M 890.439636,658.947388 C 895.447510,712.837952 822.123474,801.185547 768.232910,806.193420"
+              class="id_Belgian_Saison id_Leipzig_Gose" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.8869784"
+              d="M 890.439636,658.947388 C 824.909119,669.159668 711.294800,586.182373 701.082520,520.651855"
+              class="id_Belgian_Saison id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.020061"
+              d="M 890.439636,658.947388 C 788.102356,728.109863 530.852783,678.347778 461.690338,576.010498"
+              class="id_Belgian_Saison id_English_India_Pale_Ale_(IPA)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5402114"
+              d="M 890.439636,658.947388 C 894.387512,679.167847 869.978760,715.420349 849.758301,719.368225"
+              class="id_Belgian_Saison id_Belgian_IPA" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.600394"
+              d="M 890.439636,658.947388 C 796.763428,704.592468 587.781372,632.545654 542.136292,538.869446"
+              class="id_Belgian_Saison id_Belgian_Dubbel" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.1993551"
+              d="M 890.439636,658.947388 C 886.615601,672.339905 860.790894,686.692749 847.398376,682.868713"
+              class="id_Belgian_Saison id_Belgian_Pale_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3353035"
+              d="M 890.439636,658.947388 C 875.583801,725.325439 753.732849,802.608765 687.354797,787.752930"
+              class="id_Belgian_Saison id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.8454237"
+              d="M 890.439636,658.947388 C 826.913696,694.573303 678.185852,652.723206 642.559937,589.197266"
+              class="id_Belgian_Saison id_German_Pilsner" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3310049"
+              d="M 890.439636,658.947388 C 832.419556,748.166809 611.560303,794.965942 522.340881,736.945862"
+              class="id_Belgian_Saison id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5917966"
+              d="M 890.439636,658.947388 C 848.678101,655.186707 791.676880,586.903503 795.437561,545.141968"
+              class="id_Belgian_Saison id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3868887"
+              d="M 890.439636,658.947388 C 917.194397,649.130981 972.051086,674.538391 981.867493,701.293152"
+              class="id_Belgian_Saison id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.0732582"
+              d="M 890.439636,658.947388 C 805.894958,732.956787 568.063965,717.153687 494.054596,632.609070"
+              class="id_Belgian_Saison id_Belgian_Tripel" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0988717"
+              d="M 890.439636,658.947388 C 830.192627,735.816956 624.517822,760.750793 547.648254,700.503784"
+              class="id_Belgian_Saison id_English_Porter" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1017375"
+              d="M 579.355408,720.708557 C 629.220032,646.139465 815.870544,609.082764 890.439636,658.947388"
+              class="id_English_Pale_Ale id_Belgian_Saison" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.5446892"
+              d="M 937.447571,585.743408 C 942.686768,609.785828 914.482056,653.708191 890.439636,658.947388"
+              class="id_Fruit_and_Field_Beer id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.5590184"
+              d="M 895.825134,607.572998 C 905.022949,618.924988 901.791626,649.749573 890.439636,658.947388"
+              class="id_American_Wild_Ale id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.911338"
+              d="M 860.583984,622.343628 C 873.875854,623.693237 891.789246,645.655518 890.439636,658.947388"
+              class="id_Berliner_Weisse id_Belgian_Saison" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0300913"
+              d="M 847.398376,682.868713 C 785.691833,679.688538 697.902344,582.358398 701.082520,520.651855"
+              class="id_Belgian_Pale_Ale id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1576214"
+              d="M 542.136292,538.869446 C 631.988586,506.616882 815.145813,593.016418 847.398376,682.868713"
+              class="id_Belgian_Dubbel id_Belgian_Pale_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0802436"
+              d="M 642.559937,589.197266 C 702.261963,566.963867 825.164978,623.166687 847.398376,682.868713"
+              class="id_German_Pilsner id_Belgian_Pale_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5416443"
+              d="M 937.447571,585.743408 C 938.862793,623.178284 884.833252,681.453491 847.398376,682.868713"
+              class="id_Fruit_and_Field_Beer id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.09314"
+              d="M 981.867493,701.293152 C 951.288818,724.502075 870.607300,713.447388 847.398376,682.868713"
+              class="id_Belgian_Strong_Dark_Ale id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0515852"
+              d="M 849.758301,719.368225 C 841.986389,712.540283 840.570435,690.640625 847.398376,682.868713"
+              class="id_Belgian_IPA id_Belgian_Pale_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3510659"
+              d="M 895.825134,607.572998 C 901.198914,632.317505 872.142883,677.494934 847.398376,682.868713"
+              class="id_American_Wild_Ale id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 860.583984,622.343628 C 870.051880,637.085815 862.140564,673.400818 847.398376,682.868713"
+              class="id_Berliner_Weisse id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3883216"
+              d="M 860.583984,622.343628 C 864.678101,612.341309 885.822815,603.478882 895.825134,607.572998"
+              class="id_Berliner_Weisse id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1518898"
+              d="M 860.583984,622.343628 C 868.636658,599.650818 914.754761,577.690735 937.447571,585.743408"
+              class="id_Berliner_Weisse id_Fruit_and_Field_Beer"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.075945"
+              d="M 860.583984,622.343628 C 878.883728,677.583801 823.473083,787.893677 768.232910,806.193420"
+              class="id_Berliner_Weisse id_Leipzig_Gose" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.12753"
+              d="M 895.825134,607.572998 C 841.496948,654.550842 689.537781,643.525452 642.559937,589.197266"
+              class="id_American_Wild_Ale id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0401218"
+              d="M 895.825134,607.572998 C 839.492371,629.137329 722.646851,576.984619 701.082520,520.651855"
+              class="id_American_Wild_Ale id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2837183"
+              d="M 895.825134,607.572998 C 910.030762,672.815491 833.475403,791.987793 768.232910,806.193420"
+              class="id_American_Wild_Ale id_Leipzig_Gose" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5975282"
+              d="M 937.447571,585.743408 C 933.489014,598.433777 908.515503,611.531555 895.825134,607.572998"
+              class="id_Fruit_and_Field_Beer id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0343902"
+              d="M 937.447571,585.743408 C 946.634705,630.006226 894.021118,710.181091 849.758301,719.368225"
+              class="id_Fruit_and_Field_Beer id_Belgian_IPA"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1690848"
+              d="M 937.447571,585.743408 C 900.778687,630.295349 778.947388,642.119873 734.395447,605.450989"
+              class="id_Fruit_and_Field_Beer id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3510659"
+              d="M 937.447571,585.743408 C 877.156250,619.998108 735.337219,580.943176 701.082520,520.651855"
+              class="id_Fruit_and_Field_Beer id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.075945"
+              d="M 937.447571,585.743408 C 849.010498,655.430847 611.823730,627.306519 542.136292,538.869446"
+              class="id_Fruit_and_Field_Beer id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3768582"
+              d="M 937.447571,585.743408 C 927.830933,676.163879 777.775269,797.369568 687.354797,787.752930"
+              class="id_Fruit_and_Field_Beer id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.621888"
+              d="M 937.447571,585.743408 C 879.160828,645.411743 702.228271,647.484009 642.559937,589.197266"
+              class="id_Fruit_and_Field_Beer id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1547556"
+              d="M 937.447571,585.743408 C 884.666687,699.005249 635.602722,789.726746 522.340881,736.945862"
+              class="id_Fruit_and_Field_Beer id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2851515"
+              d="M 937.447571,585.743408 C 900.925293,606.025085 815.719238,581.664246 795.437561,545.141968"
+              class="id_Fruit_and_Field_Beer id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.057675"
+              d="M 711.218262,848.489746 C 684.146484,860.303101 625.818909,837.415588 614.005554,810.343811"
+              class="id_American_Stout id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3037794"
+              d="M 711.218262,848.489746 C 667.245972,795.246582 681.152283,649.423279 734.395447,605.450989"
+              class="id_American_Stout id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.7798676"
+              d="M 711.218262,848.489746 C 652.075256,882.879089 511.776672,845.748657 477.387329,786.605652"
+              class="id_American_Stout id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.079169"
+              d="M 711.218262,848.489746 C 651.733337,829.221619 591.408203,711.091919 610.676331,651.606995"
+              class="id_American_Stout id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.365395"
+              d="M 711.218262,848.489746 C 714.161926,828.627502 748.370667,803.249756 768.232910,806.193420"
+              class="id_American_Stout id_Leipzig_Gose" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.8124664"
+              d="M 711.218262,848.489746 C 643.623535,784.949341 637.542114,588.246582 701.082520,520.651855"
+              class="id_American_Stout id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7709117"
+              d="M 711.218262,848.489746 C 613.528931,879.726440 420.139954,780.047424 388.903290,682.358093"
+              class="id_American_Stout id_English_Sweet_/_Milk_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.3367364"
+              d="M 711.218262,848.489746 C 615.477783,820.382080 514.028625,634.609924 542.136292,538.869446"
+              class="id_American_Stout id_Belgian_Dubbel" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.7250583"
+              d="M 711.218262,848.489746 C 705.330078,788.129517 787.038147,688.756897 847.398376,682.868713"
+              class="id_American_Stout id_Belgian_Pale_Ale" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.9901488"
+              d="M 711.218262,848.489746 C 662.696899,812.362671 644.105347,685.389893 680.232422,636.868530"
+              class="id_American_Stout id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2407308"
+              d="M 711.218262,848.489746 C 694.298218,841.115112 679.980164,804.672974 687.354797,787.752930"
+              class="id_American_Stout id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.7594483"
+              d="M 711.218262,848.489746 C 645.628052,810.362915 604.433105,654.787476 642.559937,589.197266"
+              class="id_American_Stout id_German_Pilsner" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.236432"
+              d="M 711.218262,848.489746 C 651.134033,863.956421 537.807556,797.030090 522.340881,736.945862"
+              class="id_American_Stout id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5817661"
+              d="M 711.218262,848.489746 C 667.392578,770.976318 717.924133,588.967651 795.437561,545.141968"
+              class="id_American_Stout id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0773778"
+              d="M 711.218262,848.489746 C 735.908752,764.920593 898.298340,676.602661 981.867493,701.293152"
+              class="id_American_Stout id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.547376"
+              d="M 711.218262,848.489746 C 647.827881,798.058838 628.388550,627.326904 678.819458,563.936523"
+              class="id_American_Stout id_Scotch_Ale_/_Wee_Heavy"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.656278"
+              d="M 711.218262,848.489746 C 624.609375,848.746338 494.311157,719.217957 494.054596,632.609070"
+              class="id_American_Stout id_Belgian_Tripel" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.05875"
+              d="M 711.218262,848.489746 C 650.130615,870.795166 525.040894,812.621826 502.735474,751.534180"
+              class="id_American_Stout id_Winter_Warmer" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.5948415"
+              d="M 937.447571,585.743408 C 944.750977,683.538513 809.013367,841.186340 711.218262,848.489746"
+              class="id_Fruit_and_Field_Beer id_American_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1891456"
+              d="M 849.758301,719.368225 C 847.874573,772.900513 764.750549,850.373474 711.218262,848.489746"
+              class="id_Belgian_IPA id_American_Stout" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.0087767"
+              d="M 895.825134,607.572998 C 907.087097,692.677734 796.322998,837.227783 711.218262,848.489746"
+              class="id_American_Wild_Ale id_American_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4871933"
+              d="M 860.583984,622.343628 C 875.940063,697.446045 786.320679,833.133667 711.218262,848.489746"
+              class="id_Berliner_Weisse id_American_Stout" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="4.420204"
+              d="M 890.439636,658.947388 C 892.503784,732.700134 784.971008,846.425598 711.218262,848.489746"
+              class="id_Belgian_Saison id_American_Stout" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.4329214"
+              d="M 859.479553,526.910706 C 894.143066,620.878784 805.186340,813.826233 711.218262,848.489746"
+              class="id_Belgian_Witbier id_American_Stout" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.494537"
+              d="M 639.298157,882.003967 C 646.979370,860.917114 690.131409,840.808533 711.218262,848.489746"
+              class="id_German_Hefeweizen id_American_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.690668"
+              d="M 847.108582,569.333313 C 875.761841,652.342651 794.227600,819.836487 711.218262,848.489746"
+              class="id_American_Lager id_American_Stout" stroke-opacity="0.2"
+              stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.0850797"
+              d="M 805.087646,832.445618 C 789.522583,854.428284 733.200928,864.054810 711.218262,848.489746"
+              class="id_American_Imperial_IPA id_American_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.6294107"
+              d="M 856.389832,771.477783 C 842.757935,815.914490 755.654968,862.121643 711.218262,848.489746"
+              class="id_American_Porter id_American_Stout" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="6.0136127"
+              d="M 698.556702,436.654205 C 783.456116,516.489014 791.053101,763.590332 711.218262,848.489746"
+              class="id_American_Pale_Ale_(APA) id_American_Stout"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="6.6512628"
+              d="M 574.841248,503.555969 C 671.103394,545.267334 752.929626,752.227600 711.218262,848.489746"
+              class="id_American_IPA id_American_Stout" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.620634"
+              d="M 813.072815,503.819550 C 861.635925,593.124512 800.523193,799.926636 711.218262,848.489746"
+              class="id_American_Imperial_Stout id_American_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.6147232"
+              d="M 680.438416,678.726929 C 720.546936,706.523560 739.014893,808.381226 711.218262,848.489746"
+              class="id_Russian_Imperial_Stout id_American_Stout"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.2077737"
+              d="M 614.005554,810.343811 C 597.104980,745.287231 669.338867,622.351563 734.395447,605.450989"
+              class="id_American_Blonde_Ale id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1475909"
+              d="M 614.005554,810.343811 C 545.336853,770.422791 502.215271,607.538147 542.136292,538.869446"
+              class="id_American_Blonde_Ale id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5215833"
+              d="M 614.005554,810.343811 C 635.189148,738.170227 775.224792,661.685120 847.398376,682.868713"
+              class="id_American_Blonde_Ale id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1475909"
+              d="M 614.005554,810.343811 C 624.157227,791.155762 668.166748,777.601257 687.354797,787.752930"
+              class="id_American_Blonde_Ale id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0114634"
+              d="M 614.005554,810.343811 C 579.989624,820.835938 513.227600,785.550110 502.735474,751.534180"
+              class="id_American_Blonde_Ale id_Winter_Warmer"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4456387"
+              d="M 614.005554,810.343811 C 573.482544,734.989990 625.728699,561.174866 701.082520,520.651855"
+              class="id_American_Blonde_Ale id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0472865"
+              d="M 614.005554,810.343811 C 580.993042,813.997192 525.994263,769.958374 522.340881,736.945862"
+              class="id_American_Blonde_Ale id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4413397"
+              d="M 795.437561,545.141968 C 812.191528,634.468689 703.332275,793.589844 614.005554,810.343811"
+              class="id_English_Extra_Special_/_Strong_Bitter_(ESB) id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4599679"
+              d="M 642.559937,589.197266 C 681.078369,639.137451 663.945740,771.825378 614.005554,810.343811"
+              class="id_German_Pilsner id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.0859754"
+              d="M 579.355408,720.708557 C 604.212524,731.705566 625.002563,785.486694 614.005554,810.343811"
+              class="id_English_Pale_Ale id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.331184"
+              d="M 937.447571,585.743408 C 917.679260,695.351929 723.614075,830.112122 614.005554,810.343811"
+              class="id_Fruit_and_Field_Beer id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.075945"
+              d="M 768.232910,806.193420 C 738.217529,837.868958 645.681091,840.359192 614.005554,810.343811"
+              class="id_Leipzig_Gose id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.5903637"
+              d="M 895.825134,607.572998 C 880.015381,704.491028 710.923584,826.153564 614.005554,810.343811"
+              class="id_American_Wild_Ale id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.1977432"
+              d="M 860.583984,622.343628 C 848.868347,709.259338 700.921265,822.059448 614.005554,810.343811"
+              class="id_Berliner_Weisse id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.4513702"
+              d="M 494.054596,632.609070 C 553.591736,644.165833 625.562317,750.806702 614.005554,810.343811"
+              class="id_Belgian_Tripel id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.8556333"
+              d="M 890.439636,658.947388 C 865.432129,744.513489 699.571655,835.351318 614.005554,810.343811"
+              class="id_Belgian_Saison id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.2566721"
+              d="M 859.479553,526.910706 C 867.071411,632.692139 719.786987,802.751953 614.005554,810.343811"
+              class="id_Belgian_Witbier id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.8083467"
+              d="M 610.676331,651.606995 C 643.089539,682.688538 645.087097,777.930603 614.005554,810.343811"
+              class="id_American_Brown_Ale id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="2.6663084"
+              d="M 680.232422,636.868530 C 701.682129,684.808960 661.945984,788.894104 614.005554,810.343811"
+              class="id_German_Märzen_/_Oktoberfest id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="4.6709657"
+              d="M 477.387329,786.605652 C 509.458588,764.029602 591.429504,778.272522 614.005554,810.343811"
+              class="id_American_Amber_/_Red_Ale id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.3168547"
+              d="M 639.298157,882.003967 C 619.907593,872.730469 604.732056,829.734375 614.005554,810.343811"
+              class="id_German_Hefeweizen id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4141142"
+              d="M 847.108582,569.333313 C 848.690063,664.156006 708.828247,808.762329 614.005554,810.343811"
+              class="id_American_Lager id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="3.897188"
+              d="M 639.298157,882.003967 C 587.836365,895.306458 490.689850,838.067444 477.387329,786.605652"
+              class="id_German_Hefeweizen id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1719506"
+              d="M 639.298157,882.003967 C 603.007019,807.673889 660.065369,641.742126 734.395447,605.450989"
+              class="id_German_Hefeweizen id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.3567975"
+              d="M 639.298157,882.003967 C 616.363708,884.516541 578.193115,853.883789 575.680542,830.949341"
+              class="id_German_Hefeweizen id_German_Dunkelweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0773778"
+              d="M 639.298157,882.003967 C 560.498291,803.543701 559.989014,567.653564 638.449280,488.853699"
+              class="id_German_Hefeweizen id_German_Maibock"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.1950564"
+              d="M 639.298157,882.003967 C 587.494385,841.648926 570.321289,703.410767 610.676331,651.606995"
+              class="id_German_Hefeweizen id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.6075587"
+              d="M 639.298157,882.003967 C 579.384644,797.376648 616.455200,580.565369 701.082520,520.651855"
+              class="id_German_Hefeweizen id_German_Kölsch" stroke-opacity="0.2"
+              stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.091707"
+              d="M 639.298157,882.003967 C 551.238892,832.809448 492.941772,626.928711 542.136292,538.869446"
+              class="id_German_Hefeweizen id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3238401"
+              d="M 639.298157,882.003967 C 641.091187,800.556885 765.951294,681.075684 847.398376,682.868713"
+              class="id_German_Hefeweizen id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.1592333"
+              d="M 639.298157,882.003967 C 598.457886,824.790039 623.018494,677.708801 680.232422,636.868530"
+              class="id_German_Hefeweizen id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.090274"
+              d="M 639.298157,882.003967 C 630.059265,853.542419 658.893250,796.991821 687.354797,787.752930"
+              class="id_German_Hefeweizen id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.183414"
+              d="M 639.298157,882.003967 C 598.119690,878.360046 541.817993,811.126526 545.461914,769.948059"
+              class="id_German_Hefeweizen id_German_Doppelbock"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.2108185"
+              d="M 639.298157,882.003967 C 581.389160,822.790283 583.346252,647.106262 642.559937,589.197266"
+              class="id_German_Hefeweizen id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.309511"
+              d="M 639.298157,882.003967 C 586.895081,876.383850 516.720764,789.348938 522.340881,736.945862"
+              class="id_German_Hefeweizen id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.309511"
+              d="M 639.298157,882.003967 C 603.153687,783.403687 696.837280,581.286438 795.437561,545.141968"
+              class="id_German_Hefeweizen id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.3539317"
+              d="M 639.298157,882.003967 C 560.370483,861.173706 473.224365,711.536743 494.054596,632.609070"
+              class="id_German_Hefeweizen id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.090274"
+              d="M 639.298157,882.003967 C 567.353210,867.550598 481.115845,737.953125 495.569244,666.008179"
+              class="id_German_Hefeweizen id_German_Schwarzbier"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.2452087"
+              d="M 937.447571,585.743408 C 937.069824,704.625427 758.180176,882.381714 639.298157,882.003967"
+              class="id_Fruit_and_Field_Beer id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.3052123"
+              d="M 895.825134,607.572998 C 899.405884,713.764587 745.489746,878.423218 639.298157,882.003967"
+              class="id_American_Wild_Ale id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0472865"
+              d="M 860.583984,622.343628 C 868.258911,718.532837 735.487366,874.329041 639.298157,882.003967"
+              class="id_Berliner_Weisse id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.4544153"
+              d="M 890.439636,658.947388 C 884.822693,753.786987 734.137756,887.620911 639.298157,882.003967"
+              class="id_Belgian_Saison id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.8239298"
+              d="M 859.479553,526.910706 C 886.461975,641.965637 754.353088,855.021545 639.298157,882.003967"
+              class="id_Belgian_Witbier id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.5545406"
+              d="M 477.387329,786.605652 C 492.558014,698.973083 646.762878,590.280334 734.395447,605.450989"
+              class="id_American_Amber_/_Red_Ale id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0687802"
+              d="M 477.387329,786.605652 C 505.914703,775.815735 564.890625,802.421997 575.680542,830.949341"
+              class="id_American_Amber_/_Red_Ale id_German_Dunkelweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="4.4273686"
+              d="M 477.387329,786.605652 C 477.045410,732.948120 557.018799,651.948975 610.676331,651.606995"
+              class="id_American_Amber_/_Red_Ale id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2650905"
+              d="M 477.387329,786.605652 C 539.473999,732.354065 713.981323,744.106750 768.232910,806.193420"
+              class="id_American_Amber_/_Red_Ale id_Leipzig_Gose"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.9356978"
+              d="M 477.387329,786.605652 C 468.935577,688.675903 603.152771,529.103577 701.082520,520.651855"
+              class="id_American_Amber_/_Red_Ale id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.199176"
+              d="M 477.387329,786.605652 C 432.128906,747.626038 422.710724,621.268921 461.690338,576.010498"
+              class="id_American_Amber_/_Red_Ale id_English_India_Pale_Ale_(IPA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.345334"
+              d="M 477.387329,786.605652 C 440.789886,724.108643 479.639282,575.466919 542.136292,538.869446"
+              class="id_American_Amber_/_Red_Ale id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.8826797"
+              d="M 477.387329,786.605652 C 530.642151,691.856079 752.648804,629.613892 847.398376,682.868713"
+              class="id_American_Amber_/_Red_Ale id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.1778615"
+              d="M 477.387329,786.605652 C 488.008942,716.089172 609.715942,626.246948 680.232422,636.868530"
+              class="id_American_Amber_/_Red_Ale id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.454236"
+              d="M 477.387329,786.605652 C 519.610229,744.841614 645.590759,745.530029 687.354797,787.752930"
+              class="id_American_Amber_/_Red_Ale id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0974386"
+              d="M 477.387329,786.605652 C 487.670746,769.659180 528.515442,759.664673 545.461914,769.948059"
+              class="id_American_Amber_/_Red_Ale id_German_Doppelbock"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.9528928"
+              d="M 477.387329,786.605652 C 470.940155,714.089417 570.043701,595.644409 642.559937,589.197266"
+              class="id_American_Amber_/_Red_Ale id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.401218"
+              d="M 477.387329,786.605652 C 476.446106,767.682983 503.418213,737.887085 522.340881,736.945862"
+              class="id_American_Amber_/_Red_Ale id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.747985"
+              d="M 477.387329,786.605652 C 492.704651,674.702881 683.534790,529.824646 795.437561,545.141968"
+              class="id_American_Amber_/_Red_Ale id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1174996"
+              d="M 477.387329,786.605652 C 561.220825,668.647095 863.908936,617.459595 981.867493,701.293152"
+              class="id_American_Amber_/_Red_Ale id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1389935"
+              d="M 477.387329,786.605652 C 474.219147,755.333069 516.375671,703.671997 547.648254,700.503784"
+              class="id_American_Amber_/_Red_Ale id_English_Porter"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2221029"
+              d="M 477.387329,786.605652 C 475.442688,774.521729 490.651550,753.478821 502.735474,751.534180"
+              class="id_American_Amber_/_Red_Ale id_Winter_Warmer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2894502"
+              d="M 579.355408,720.708557 C 572.141235,754.281616 510.960358,793.819824 477.387329,786.605652"
+              class="id_English_Pale_Ale id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.9029195"
+              d="M 937.447571,585.743408 C 885.607971,717.927856 609.571838,838.445313 477.387329,786.605652"
+              class="id_Fruit_and_Field_Beer id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2421637"
+              d="M 849.758301,719.368225 C 788.731628,807.289917 565.309021,847.632324 477.387329,786.605652"
+              class="id_Belgian_IPA id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.911338"
+              d="M 895.825134,607.572998 C 847.944092,727.067078 596.881409,834.486694 477.387329,786.605652"
+              class="id_American_Wild_Ale id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4327424"
+              d="M 860.583984,622.343628 C 816.797058,731.835388 586.879089,830.392578 477.387329,786.605652"
+              class="id_Berliner_Weisse id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.690668"
+              d="M 494.054596,632.609070 C 521.520447,666.741821 511.520111,759.139771 477.387329,786.605652"
+              class="id_Belgian_Tripel id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.4331007"
+              d="M 890.439636,658.947388 C 833.360840,767.089539 585.529480,843.684448 477.387329,786.605652"
+              class="id_Belgian_Saison id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.768225"
+              d="M 859.479553,526.910706 C 835.000061,655.268127 605.744751,811.085144 477.387329,786.605652"
+              class="id_Belgian_Witbier id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.0300913"
+              d="M 597.878967,614.844543 C 608.132874,673.295105 535.837891,776.351746 477.387329,786.605652"
+              class="id_English_Bitter id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.074512"
+              d="M 937.447571,585.743408 C 947.694641,663.676392 846.165894,795.946350 768.232910,806.193420"
+              class="id_Fruit_and_Field_Beer id_Leipzig_Gose"
+              stroke-opacity="0.2" stroke="#5fc613"/>
+        <path fill="none" stroke-width="5.2341037"
+              d="M 805.087646,832.445618 C 730.379639,888.817688 533.759399,861.313660 477.387329,786.605652"
+              class="id_American_Imperial_IPA id_American_Amber_/_Red_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.401218"
+              d="M 805.087646,832.445618 C 745.550293,801.185120 703.134949,664.988342 734.395447,605.450989"
+              class="id_American_Imperial_IPA id_English_Brown_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.070213"
+              d="M 805.087646,832.445618 C 758.906982,878.027771 621.262695,877.130005 575.680542,830.949341"
+              class="id_American_Imperial_IPA id_German_Dunkelweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="5.3243775"
+              d="M 805.087646,832.445618 C 787.458374,780.675598 838.669617,676.576660 890.439636,658.947388"
+              class="id_American_Imperial_IPA id_Belgian_Saison"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="4.486119"
+              d="M 805.087646,832.445618 C 730.037659,835.160156 613.390869,726.656982 610.676331,651.606995"
+              class="id_American_Imperial_IPA id_American_Brown_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.729357"
+              d="M 805.087646,832.445618 C 792.466248,834.566162 770.353455,818.814819 768.232910,806.193420"
+              class="id_American_Imperial_IPA id_Leipzig_Gose"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.7925847"
+              d="M 805.087646,832.445618 C 781.841431,875.515198 682.367737,905.250183 639.298157,882.003967"
+              class="id_American_Imperial_IPA id_German_Hefeweizen"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.0847216"
+              d="M 805.087646,832.445618 C 721.927856,790.887878 659.524780,603.811646 701.082520,520.651855"
+              class="id_American_Imperial_IPA id_German_Kölsch"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1418593"
+              d="M 805.087646,832.445618 C 685.121155,849.838013 479.082794,695.976990 461.690338,576.010498"
+              class="id_American_Imperial_IPA id_English_India_Pale_Ale_(IPA)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.4642665"
+              d="M 805.087646,832.445618 C 791.406311,800.895996 818.208679,733.049561 849.758301,719.368225"
+              class="id_American_Imperial_IPA id_Belgian_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.547376"
+              d="M 805.087646,832.445618 C 693.782166,826.320679 536.011353,650.174927 542.136292,538.869446"
+              class="id_American_Imperial_IPA id_Belgian_Dubbel"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.0675263"
+              d="M 805.087646,832.445618 C 783.634399,794.068054 809.020813,704.321960 847.398376,682.868713"
+              class="id_American_Imperial_IPA id_Belgian_Pale_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.2092066"
+              d="M 805.087646,832.445618 C 737.593811,855.244629 602.154419,788.202393 579.355408,720.708557"
+              class="id_American_Imperial_IPA id_English_Pale_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.2509403"
+              d="M 805.087646,832.445618 C 741.001160,818.301270 666.088074,700.955017 680.232422,636.868530"
+              class="id_American_Imperial_IPA id_German_Märzen_/_Oktoberfest"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.365395"
+              d="M 805.087646,832.445618 C 772.602539,847.053650 701.962830,820.238037 687.354797,787.752930"
+              class="id_American_Imperial_IPA id_Herb_and_Spice_Beer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.0128963"
+              d="M 805.087646,832.445618 C 692.640137,851.967957 494.685425,712.580261 475.163086,600.132751"
+              class="id_American_Imperial_IPA id_German_Altbier"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.1361275"
+              d="M 805.087646,832.445618 C 740.662964,871.871277 584.887573,834.372742 545.461914,769.948059"
+              class="id_American_Imperial_IPA id_German_Doppelbock"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.0990508"
+              d="M 805.087646,832.445618 C 723.932434,816.301514 626.415833,670.352478 642.559937,589.197266"
+              class="id_American_Imperial_IPA id_German_Pilsner"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.4699981"
+              d="M 805.087646,832.445618 C 729.438293,869.895020 559.790283,812.595215 522.340881,736.945862"
+              class="id_American_Imperial_IPA id_Bohemian_Pilsener"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.8067348"
+              d="M 805.087646,832.445618 C 745.696899,776.914856 739.906799,604.532715 795.437561,545.141968"
+              class="id_American_Imperial_IPA id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.5160308"
+              d="M 805.087646,832.445618 C 778.260620,769.323547 832.703064,634.400024 895.825134,607.572998"
+              class="id_American_Imperial_IPA id_American_Wild_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.0632277"
+              d="M 805.087646,832.445618 C 702.913757,854.684937 516.293945,734.782959 494.054596,632.609070"
+              class="id_American_Imperial_IPA id_Belgian_Tripel"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.144725"
+              d="M 805.087646,832.445618 C 727.211426,857.545105 572.747742,778.380005 547.648254,700.503784"
+              class="id_American_Imperial_IPA id_English_Porter"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="4.4359665"
+              d="M 805.087646,832.445618 C 762.450867,866.241699 647.801636,852.980591 614.005554,810.343811"
+              class="id_American_Imperial_IPA id_American_Blonde_Ale"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.1877127"
+              d="M 805.087646,832.445618 C 728.434875,876.733765 547.023621,828.186951 502.735474,751.534180"
+              class="id_American_Imperial_IPA id_Winter_Warmer"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.055884"
+              d="M 805.087646,832.445618 C 709.896484,861.061829 524.185425,761.199341 495.569244,666.008179"
+              class="id_American_Imperial_IPA id_German_Schwarzbier"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="2.2966146"
+              d="M 805.087646,832.445618 C 814.213135,770.859192 920.281067,692.167664 981.867493,701.293152"
+              class="id_American_Imperial_IPA id_Belgian_Strong_Dark_Ale"
+              stroke-opacity="0.2" stroke="#c686e9"/>
+        <path fill="none" stroke-width="3.9072185"
+              d="M 937.447571,585.743408 C 960.316040,661.555847 880.900085,809.577148 805.087646,832.445618"
+              class="id_Fruit_and_Field_Beer id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="2.9428623"
+              d="M 860.583984,622.343628 C 891.505127,675.463257 858.207275,801.524475 805.087646,832.445618"
+              class="id_Berliner_Weisse id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.804048"
+              d="M 859.479553,526.910706 C 909.708191,598.896057 877.072998,782.216980 805.087646,832.445618"
+              class="id_Belgian_Witbier id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+        <path fill="none" stroke-width="3.0145082"
+              d="M 847.108582,569.333313 C 891.326843,630.359924 866.114258,788.227356 805.087646,832.445618"
+              class="id_American_Lager id_American_Imperial_IPA"
+              stroke-opacity="0.2" stroke="#92a67e"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#c686e9" r="12.234042" cx="705.77625"
+                class="id_English_Oatmeal_Stout" cy="702.3583" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="17.340425" cx="732.7856"
+                class="id_American_Black_Ale" cy="735.7401" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.234042" cx="643.4305"
+                class="id_Rye_Beer" cy="751.96466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="13.936171" cx="680.4384"
+                class="id_Russian_Imperial_Stout" cy="678.7269" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="13.510638" cx="388.9033"
+                class="id_English_Sweet_/_Milk_Stout" cy="682.3581"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="11.80851" cx="678.81946"
+                class="id_Scotch_Ale_/_Wee_Heavy" cy="563.9365" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="25.0" cx="574.84125"
+                class="id_American_IPA" cy="503.55597" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="25.0" cx="698.5567"
+                class="id_American_Pale_Ale_(APA)" cy="436.6542"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="17.765957" cx="680.2324"
+                class="id_German_Märzen_/_Oktoberfest" cy="636.8685"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="19.468084" cx="610.67633"
+                class="id_American_Brown_Ale" cy="651.607" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.7021275" cx="597.87897"
+                class="id_English_Bitter" cy="614.84454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="14.361702" cx="494.0546"
+                class="id_Belgian_Tripel" cy="632.6091" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="5.8510637" cx="570.19244"
+                class="id_British_Barleywine" cy="454.857" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="8.404255" cx="579.3554"
+                class="id_English_Pale_Ale" cy="720.70856" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="13.936171" cx="642.55994"
+                class="id_German_Pilsner" cy="589.19727" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.7021275" cx="638.4493"
+                class="id_German_Maibock" cy="488.8537" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="7.553191" cx="461.69034"
+                class="id_English_India_Pale_Ale_(IPA)" cy="576.0105"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.2765956" cx="475.1631"
+                class="id_German_Altbier" cy="600.13275" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="5.8510637" cx="614.02515"
+                class="id_Vienna_Lager" cy="472.66818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.531915" cx="522.3409"
+                class="id_Bohemian_Pilsener" cy="736.94586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="6.7021275" cx="495.56924"
+                class="id_German_Schwarzbier" cy="666.0082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.531915" cx="734.39545"
+                class="id_English_Brown_Ale" cy="605.451" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="13.936171" cx="701.0825"
+                class="id_German_Kölsch" cy="520.65186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="7.9787235" cx="502.73547"
+                class="id_Winter_Warmer" cy="751.5342" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="11.382978" cx="542.1363"
+                class="id_Belgian_Dubbel" cy="538.86945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="7.12766" cx="547.64825"
+                class="id_English_Porter" cy="700.5038" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="8.404255" cx="545.4619"
+                class="id_German_Doppelbock" cy="769.94806" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="17.340425" cx="803.3166"
+                class="id_American_Pale_Wheat_Ale" cy="750.55786"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="19.042553" cx="813.0728"
+                class="id_American_Imperial_Stout" cy="503.81955"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="22.021276" cx="856.38983"
+                class="id_American_Porter" cy="771.4778" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.6595745" cx="847.1086"
+                class="id_American_Lager" cy="569.3333" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="19.893616" cx="859.47955"
+                class="id_Belgian_Witbier" cy="526.9107" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="21.170214" cx="890.43964"
+                class="id_Belgian_Saison" cy="658.9474" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="16.06383" cx="847.3984"
+                class="id_Belgian_Pale_Ale" cy="682.8687" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="12.6595745" cx="860.584"
+                class="id_Berliner_Weisse" cy="622.3436" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="16.06383" cx="895.82513"
+                class="id_American_Wild_Ale" cy="607.573" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.531915" cx="849.7583"
+                class="id_Belgian_IPA" cy="719.3682" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="9.680851" cx="981.8675"
+                class="id_Belgian_Strong_Dark_Ale" cy="701.29315"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="19.468084" cx="937.4476"
+                class="id_Fruit_and_Field_Beer" cy="585.7434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="11.80851" cx="795.43756"
+                class="id_English_Extra_Special_/_Strong_Bitter_(ESB)"
+                cy="545.14197" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="20.319149" cx="711.21826"
+                class="id_American_Stout" cy="848.48975" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="19.893616" cx="614.00555"
+                class="id_American_Blonde_Ale" cy="810.3438" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="20.319149" cx="639.29816"
+                class="id_German_Hefeweizen" cy="882.00397" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="22.872341" cx="477.38733"
+                class="id_American_Amber_/_Red_Ale" cy="786.60565"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5fc613" r="10.957447" cx="768.2329"
+                class="id_Leipzig_Gose" cy="806.1934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="7.553191" cx="575.68054"
+                class="id_German_Dunkelweizen" cy="830.94934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="10.531915" cx="687.3548"
+                class="id_Herb_and_Spice_Beer" cy="787.7529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c686e9" r="23.297873" cx="805.08765"
+                class="id_American_Imperial_IPA" cy="832.4456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="7" x="705.77625" y="704.0018" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_English_Oatmeal_Stout">
+            English Oatmeal Stout
+        </text>
+        <text font-size="10" x="732.7856" y="737.55896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Black_Ale">
+            American Black Ale
+        </text>
+        <text font-size="7" x="643.4305" y="753.58594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Rye_Beer">
+            Rye Beer
+        </text>
+        <text font-size="8" x="680.4384" y="680.58105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Russian_Imperial_Stout">
+            Russian Imperial Stout
+        </text>
+        <text font-size="8" x="388.9033" y="684.2357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_English_Sweet_/_Milk_Stout">
+            English Sweet / Milk Stout
+        </text>
+        <text font-size="7" x="678.81946" y="565.57947" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Scotch_Ale_/_Wee_Heavy">
+            Scotch Ale / Wee Heavy
+        </text>
+        <text font-size="15" x="574.84125" y="506.28424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_IPA">
+            American IPA
+        </text>
+        <text font-size="15" x="698.5567" y="440.1747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Pale_Ale_(APA)">
+            American Pale Ale (APA)
+        </text>
+        <text font-size="11" x="680.2324" y="638.90594" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Märzen_/_Oktoberfest">
+            German Märzen / Oktoberfest
+        </text>
+        <text font-size="12" x="610.67633" y="653.7896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Brown_Ale">
+            American Brown Ale
+        </text>
+        <text font-size="4" x="597.87897" y="615.771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_English_Bitter">
+            English Bitter
+        </text>
+        <text font-size="9" x="494.0546" y="634.69354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belgian_Tripel">
+            Belgian Tripel
+        </text>
+        <text font-size="4" x="570.19244" y="455.78342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_British_Barleywine">
+            British Barleywine
+        </text>
+        <text font-size="5" x="579.3554" y="721.8666" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_English_Pale_Ale">
+            English Pale Ale
+        </text>
+        <text font-size="8" x="642.55994" y="590.67834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Pilsner">
+            German Pilsner
+        </text>
+        <text font-size="4" x="638.4493" y="489.59424" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Maibock">
+            German Maibock
+        </text>
+        <text font-size="5" x="461.69034" y="577.18396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_English_India_Pale_Ale_(IPA)">
+            English India Pale Ale (IPA)
+        </text>
+        <text font-size="4" x="475.1631" y="600.8733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Altbier">
+            German Altbier
+        </text>
+        <text font-size="4" x="614.02515" y="473.5946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vienna_Lager">
+            Vienna Lager
+        </text>
+        <text font-size="6" x="522.3409" y="738.0372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bohemian_Pilsener">
+            Bohemian Pilsener
+        </text>
+        <text font-size="4" x="495.56924" y="666.7488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Schwarzbier">
+            German Schwarzbier
+        </text>
+        <text font-size="6" x="734.39545" y="606.84064" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_English_Brown_Ale">
+            English Brown Ale
+        </text>
+        <text font-size="8" x="701.0825" y="522.13293" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Kölsch">
+            German Kölsch
+        </text>
+        <text font-size="5" x="502.73547" y="752.4436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Winter_Warmer">
+            Winter Warmer
+        </text>
+        <text font-size="7" x="542.1363" y="540.4907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belgian_Dubbel">
+            Belgian Dubbel
+        </text>
+        <text font-size="4" x="547.64825" y="701.43024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_English_Porter">
+            English Porter
+        </text>
+        <text font-size="5" x="545.4619" y="771.10693" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Doppelbock">
+            German Doppelbock
+        </text>
+        <text font-size="10" x="803.3166" y="752.3767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Pale_Wheat_Ale">
+            American Pale Wheat Ale
+        </text>
+        <text font-size="11" x="813.0728" y="506.36902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Imperial_Stout">
+            American Imperial Stout
+        </text>
+        <text font-size="13" x="856.38983" y="773.8423" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Porter">
+            American Porter
+        </text>
+        <text font-size="8" x="847.1086" y="571.18616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Lager">
+            American Lager
+        </text>
+        <text font-size="12" x="859.47955" y="529.69" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belgian_Witbier">
+            Belgian Witbier
+        </text>
+        <text font-size="13" x="890.43964" y="661.99854" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belgian_Saison">
+            Belgian Saison
+        </text>
+        <text font-size="10" x="847.3984" y="685.1848" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belgian_Pale_Ale">
+            Belgian Pale Ale
+        </text>
+        <text font-size="8" x="860.584" y="623.7987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Berliner_Weisse">
+            Berliner Weisse
+        </text>
+        <text font-size="10" x="895.82513" y="609.39185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Wild_Ale">
+            American Wild Ale
+        </text>
+        <text font-size="6" x="849.7583" y="720.7579" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belgian_IPA">
+            Belgian IPA
+        </text>
+        <text font-size="6" x="981.8675" y="702.70135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Belgian_Strong_Dark_Ale">
+            Belgian Strong Dark Ale
+        </text>
+        <text font-size="12" x="937.4476" y="587.926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Fruit_and_Field_Beer">
+            Fruit and Field Beer
+        </text>
+        <text font-size="7" x="795.43756" y="546.7849" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_English_Extra_Special_/_Strong_Bitter_(ESB)">
+            English Extra Special / Strong Bitter (ESB)
+        </text>
+        <text font-size="12" x="711.21826" y="850.7114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Stout">
+            American Stout
+        </text>
+        <text font-size="12" x="614.00555" y="812.5264" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Blonde_Ale">
+            American Blonde Ale
+        </text>
+        <text font-size="12" x="639.29816" y="884.22565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Hefeweizen">
+            German Hefeweizen
+        </text>
+        <text font-size="14" x="477.38733" y="789.19763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Amber_/_Red_Ale">
+            American Amber / Red Ale
+        </text>
+        <text font-size="7" x="768.2329" y="807.8363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Leipzig_Gose">
+            Leipzig Gose
+        </text>
+        <text font-size="5" x="575.68054" y="831.875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_German_Dunkelweizen">
+            German Dunkelweizen
+        </text>
+        <text font-size="6" x="687.3548" y="789.14355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Herb_and_Spice_Beer">
+            Herb and Spice Beer
+        </text>
+        <text font-size="14" x="805.08765" y="835.6471" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_American_Imperial_IPA">
+            American Imperial IPA
+        </text>
+    </g>
+</svg>
